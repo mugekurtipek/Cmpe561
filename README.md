@@ -5,7 +5,7 @@
 * Second one is to classify the test set documents' writers. (Writer Classification)
 
 **After cloning the repository follow the instructions to run the .jar files of "Training Test Documents Creation":**
-* Go to the following directory from the terminal:
+* After going to the project directory go to the following directory from the terminal:
 
 Training\ Test\ Documents\ Creation/out/artifacts/fileMoveExample_jar
 * Type the following command to run the .jar file
@@ -15,7 +15,7 @@ java -jar fileMoveExample.jar \<RAW DATA DIRECTORY\> \<DIRECTORY TO SAVE TRAININ
 This will will create the test and training data from the raw data in the given paths.
 
 **After cloning the repository follow the instructions to run the .jar files of "Writer Classification":**
-* Go to the following directory from the terminal: 
+* After going to the project directory go to the following directory from the terminal: 
 
 Writer\ Classification/out/artifacts/Project1_Cmpe561_jar
 * Type the following command to run the .jar file 
