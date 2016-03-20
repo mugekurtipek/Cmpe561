@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Project1_Cmpe561:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Project1_Cmpe561_jar</output-path>
+    <root id="archive" name="Project1_Cmpe561.jar">
+      <element id="module-output" name="Project1_Cmpe561" />
+    </root>
+  </artifact>
+</component>
