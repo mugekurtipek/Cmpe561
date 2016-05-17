@@ -7,6 +7,8 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Random;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class Main {
 
@@ -35,13 +37,43 @@ public class Main {
     static double posAdvMeanNonSarcastic = 0.0;
     static double posAdvVarNonSarcastic = 0.0;
 
+
+    static double posNounToAdjMeanSarcastic = 0.0;
+    static double posNounToAdjVarSarcastic = 0.0;
+    static double posNounToAdjMeanNonSarcastic = 0.0;
+    static double posNounToAdjVarNonSarcastic = 0.0;
+
+    static double posVerbToAdvMeanSarcastic = 0.0;
+    static double posVerbToAdvVarSarcastic = 0.0;
+    static double posVerbToAdvMeanNonSarcastic = 0.0;
+    static double posVerbToAdvVarNonSarcastic = 0.0;
+
+
+    static double puncCountMeanSarcastic = 0.0;
+    static double puncCountVarSarcastic = 0.0;
+    static double wordCaseMeanNonSarcastic = 0.0;
+    static double wordCaseVarNonSarcastic = 0.0;
+
+    static double puncCountMeanNonSarcastic = 0.0;
+    static double puncCountVarNonSarcastic = 0.0;
+    static double wordCaseMeanSarcastic = 0.0;
+    static double wordCaseVarSarcastic = 0.0;
+
+    static int truePositiveX = 0;
+    static int trueNegativeX = 0;
+    static int falsePositiveX = 0;
+    static int falseNegativeX = 0;
+
     public static void main(String[] args) throws IOException{
 
-      // splitTestTraining("/Users/mugekurtipek/Desktop/sarcasmPosTag.txt","/Users/mugekurtipek/Desktop/sarcasmTraining.txt","/Users/mugekurtipek/Desktop/sarcasmTest.txt");
-      //  splitTestTraining("/Users/mugekurtipek/Desktop/nonsarcasmPosTag.txt","/Users/mugekurtipek/Desktop/nonsarcasmTraining.txt","/Users/mugekurtipek/Desktop/nonsarcasmTest.txt");
+    //   splitTestTraining("/Users/mugekurtipek/Desktop/sarcasmPosTag.txt","/Users/mugekurtipek/Desktop/sarcasmTraining.txt","/Users/mugekurtipek/Desktop/sarcasmTest.txt");
+    //    splitTestTraining("/Users/mugekurtipek/Desktop/nonsarcasmPosTag.txt","/Users/mugekurtipek/Desktop/nonsarcasmTraining.txt","/Users/mugekurtipek/Desktop/nonsarcasmTest.txt");
 
-         posTagFeature("sarcasm");
+        posTagFeature("sarcasm");
         posTagFeature("nonsarcasm");
+
+        otherFeatures("sarcasm");
+        otherFeatures("nonsarcasm");
 
         readTrainingSarcasm();
         readTrainingNonsarcasm();
@@ -51,7 +83,11 @@ public class Main {
         System.out.println("Non-Sarcasm");
         test("/Users/mugekurtipek/Desktop/nonsarcasmTest.txt");
 
+        double precision = ((double)truePositiveX/100.0+(double)trueNegativeX/100.0)/2;
+        double recall = (((double) truePositiveX/ (double)(truePositiveX+falsePositiveX))+((double)trueNegativeX/(double)(trueNegativeX+falseNegativeX)))/2;
+        double fMeasure = 2 * precision * recall /(precision+recall);
 
+        System.out.println("F meaure: "+fMeasure);
        // stemmer();
     }
 
@@ -230,6 +266,8 @@ public class Main {
             int totalVerb = 0;
             int totalAdj = 0;
             int totalAdv = 0;
+            int puncCount = 0;
+            int wordCaseCount = 0;
             double sarcasmScore = 0.0;
             double nonSarcasmScore = 0.0;
             if (!line.equals("")) {
@@ -248,6 +286,14 @@ public class Main {
                         //Nothing
                     }
                     lemma = lemma.substring(0,lemma.indexOf('|'));
+                    Matcher m = Pattern.compile("[^a-zA-Z0-9]").matcher(lemma);
+                    if(m.find()){
+                        puncCount++;
+                    }
+                    Matcher m2 = Pattern.compile("[A-Z]").matcher(lemma);
+                    while (m2.find()) {
+                        wordCaseCount++;
+                    }
 
                     if(i == 0){
                         previousLemma = lemma;
@@ -280,37 +326,72 @@ public class Main {
                 }
             }
 
-            double base = 1/Math.sqrt(2*Math.PI*posAdjMeanSarcastic);
-            double pow = -(Math.pow(((double)totalAdj-posAdjMeanSarcastic), 2)/(2*posAdjVarSarcastic));
+            double base = 0.0;
+            double pow = 0.0;
+           /* base = 1/Math.sqrt(2*Math.PI*posAdjMeanSarcastic);
+            pow = -(Math.pow(((double)totalAdj-posAdjMeanSarcastic), 2)/(2*posAdjVarSarcastic));
             sarcasmScore += Math.log10(base * Math.exp(pow));
 
             base = 1/Math.sqrt(2*Math.PI*posAdjMeanNonSarcastic);
             pow = -(Math.pow(((double)totalAdj-posAdjMeanNonSarcastic), 2)/(2*posAdjVarNonSarcastic));
-            nonSarcasmScore += Math.log10(base * Math.exp(pow));
+            nonSarcasmScore += Math.log10(base * Math.exp(pow));*/
 
-            base = 1/Math.sqrt(2*Math.PI*posNounMeanSarcastic);
-            pow = -(Math.pow(((double)totalAdj-posNounMeanSarcastic), 2)/(2*posNounVarSarcastic));
+            /*base = 1/Math.sqrt(2*Math.PI*posNounMeanSarcastic);
+            pow = -(Math.pow(((double)totalNoun-posNounMeanSarcastic), 2)/(2*posNounVarSarcastic));
             sarcasmScore += Math.log10(base * Math.exp(pow));
 
             base = 1/Math.sqrt(2*Math.PI*posNounMeanNonSarcastic);
-            pow = -(Math.pow(((double)totalAdj-posNounMeanNonSarcastic), 2)/(2*posNounVarNonSarcastic));
-            nonSarcasmScore += Math.log10(base * Math.exp(pow));
+            pow = -(Math.pow(((double)totalNoun-posNounMeanNonSarcastic), 2)/(2*posNounVarNonSarcastic));
+            nonSarcasmScore += Math.log10(base * Math.exp(pow));*/
 
-            base = 1/Math.sqrt(2*Math.PI*posAdvMeanSarcastic);
-            pow = -(Math.pow(((double)totalAdj-posAdvMeanSarcastic), 2)/(2*posAdvVarSarcastic));
+            /*base = 1/Math.sqrt(2*Math.PI*posAdvMeanSarcastic);
+            pow = -(Math.pow(((double)totalAdv-posAdvMeanSarcastic), 2)/(2*posAdvVarSarcastic));
             sarcasmScore += Math.log10(base * Math.exp(pow));
 
             base = 1/Math.sqrt(2*Math.PI*posAdvMeanNonSarcastic);
-            pow = -(Math.pow(((double)totalAdj-posAdvMeanNonSarcastic), 2)/(2*posAdvVarNonSarcastic));
-            nonSarcasmScore += Math.log10(base * Math.exp(pow));
+            pow = -(Math.pow(((double)totalAdv-posAdvMeanNonSarcastic), 2)/(2*posAdvVarNonSarcastic));
+            nonSarcasmScore += Math.log10(base * Math.exp(pow));*/
 
-            base = 1/Math.sqrt(2*Math.PI*posVerbMeanSarcastic);
-            pow = -(Math.pow(((double)totalAdj-posVerbMeanSarcastic), 2)/(2*posVerbVarSarcastic));
+            /*base = 1/Math.sqrt(2*Math.PI*posVerbMeanSarcastic);
+            pow = -(Math.pow(((double)totalVerb-posVerbMeanSarcastic), 2)/(2*posVerbVarSarcastic));
             sarcasmScore += Math.log10(base * Math.exp(pow));
 
             base = 1/Math.sqrt(2*Math.PI*posVerbMeanNonSarcastic);
-            pow = -(Math.pow(((double)totalAdj-posVerbMeanNonSarcastic), 2)/(2*posVerbVarNonSarcastic));
+            pow = -(Math.pow(((double)totalVerb-posVerbMeanNonSarcastic), 2)/(2*posVerbVarNonSarcastic));
+            nonSarcasmScore += Math.log10(base * Math.exp(pow));*/
+
+            /*base = 1/Math.sqrt(2*Math.PI*posVerbToAdvMeanSarcastic);
+            pow = -(Math.pow(((double)totalVerb/(double)totalAdv-posVerbToAdvMeanSarcastic), 2)/(2*posVerbToAdvVarSarcastic));
+            sarcasmScore += Math.log10(base * Math.exp(pow));
+
+            base = 1/Math.sqrt(2*Math.PI*posVerbToAdvMeanNonSarcastic);
+            pow = -(Math.pow(((double)totalVerb/(double)totalAdv-posVerbToAdvMeanNonSarcastic), 2)/(2*posVerbToAdvVarNonSarcastic));
+            nonSarcasmScore += Math.log10(base * Math.exp(pow));*/
+
+
+            base = 1/Math.sqrt(2*Math.PI*posNounToAdjMeanSarcastic);
+            pow = -(Math.pow(((double)totalNoun/(double)totalAdj-posNounToAdjMeanSarcastic), 2)/(2*posNounToAdjVarSarcastic));
+            sarcasmScore += Math.log10(base * Math.exp(pow));
+
+            base = 1/Math.sqrt(2*Math.PI*posNounToAdjMeanNonSarcastic);
+            pow = -(Math.pow(((double)totalNoun/(double)totalAdj-posNounToAdjMeanNonSarcastic), 2)/(2*posNounToAdjVarNonSarcastic));
             nonSarcasmScore += Math.log10(base * Math.exp(pow));
+
+           /*base = 1/Math.sqrt(2*Math.PI*puncCountMeanSarcastic);
+            pow = -(Math.pow(((double)puncCount-puncCountMeanSarcastic), 2)/(2*puncCountVarSarcastic));
+            sarcasmScore += Math.log10(base * Math.exp(pow));
+
+            base = 1/Math.sqrt(2*Math.PI*puncCountMeanNonSarcastic);
+            pow = -(Math.pow(((double)puncCount-puncCountMeanNonSarcastic), 2)/(2*puncCountVarNonSarcastic));
+            nonSarcasmScore += Math.log10(base * Math.exp(pow));*/
+
+          /* base = 1/Math.sqrt(2*Math.PI*wordCaseMeanSarcastic);
+            pow = -(Math.pow(((double)wordCaseCount-wordCaseMeanSarcastic), 2)/(2*wordCaseVarSarcastic));
+            sarcasmScore += Math.log10(base * Math.exp(pow));
+
+            base = 1/Math.sqrt(2*Math.PI*wordCaseMeanNonSarcastic);
+            pow = -(Math.pow(((double)wordCaseCount-wordCaseMeanNonSarcastic), 2)/(2*wordCaseVarNonSarcastic));
+            nonSarcasmScore += Math.log10(base * Math.exp(pow));*/
 
 
             if(sarcasmScore > nonSarcasmScore){
@@ -320,9 +401,83 @@ public class Main {
             }
         }
 
+        if(filePath.contains("non")){
+            trueNegativeX = falsePositive;
+            falsePositiveX = truePositive;
+        }else{
+            truePositiveX = truePositive;
+            falseNegativeX = falsePositive;
+        }
         System.out.println("True Positive: "+ truePositive);
         System.out.println("False Positive: "+ falsePositive);
         System.out.println("Accuracy: "+ (double)truePositive/(double)(truePositive+falsePositive));
+
+    }
+
+    public static void otherFeatures(String type)throws IOException{
+        String filePath = "";
+        if(type.equals("nonsarcasm")){
+            filePath = "/Users/mugekurtipek/Desktop/nonsarcasmTraining.txt";
+        }else{
+            filePath = "/Users/mugekurtipek/Desktop/sarcasmTraining.txt";
+        }
+
+        BufferedReader br = new BufferedReader(new FileReader(filePath));
+        String line;
+
+        ArrayList<Integer> puncCount = new ArrayList<>();
+        ArrayList<Integer> wordCaseCount = new ArrayList<>();
+        for(int i = 0; i<400; i++){
+            puncCount.add(0);
+            wordCaseCount.add(0);
+        }
+
+        int cursor = -1;
+        while ((line = br.readLine()) != null) {
+            if(!line.equals("")){
+                cursor++;
+                String[] temp = line.split(" ");
+                for (int i = 0; i < temp.length; i++) {
+
+                    String token = temp[i].substring(0,temp[i].indexOf('|'));
+                    Matcher m = Pattern.compile("[^a-zA-Z0-9]").matcher(token);
+                    if(m.find()){
+                        puncCount.set(cursor,puncCount.get(cursor)+1);
+                    }
+                    Matcher m2 = Pattern.compile("[A-Z]").matcher(token);
+                    while (m2.find()) {
+                        wordCaseCount.set(cursor,wordCaseCount.get(cursor)+1);
+                    }
+                }
+            }
+        }
+
+        int totalPuncCount = 0;
+        int totalWordCaseCount = 0;
+        int totalPuncCountS = 0;
+        int totalWordCaseCountS = 0;
+
+        for(int i = 0; i<400; i++){
+            totalPuncCount += puncCount.get(i);
+            totalWordCaseCount += wordCaseCount.get(i);
+
+            totalPuncCountS += puncCount.get(i) * puncCount.get(i);
+            totalWordCaseCountS += wordCaseCount.get(i) * wordCaseCount.get(i);
+        }
+
+        if(type.equals("nonsarcasm")){
+            puncCountMeanNonSarcastic = (double)totalPuncCount / 400.0;
+            wordCaseMeanNonSarcastic = (double) totalWordCaseCount / 400.0;
+
+            puncCountVarNonSarcastic = (double)totalPuncCountS/400.0 - (puncCountMeanNonSarcastic * puncCountMeanNonSarcastic);
+            wordCaseVarNonSarcastic = (double)totalWordCaseCountS/400.0 - (wordCaseMeanNonSarcastic * wordCaseMeanNonSarcastic);
+        }else{
+            puncCountMeanSarcastic = (double)totalPuncCount / 400.0;
+            wordCaseMeanSarcastic = (double) totalWordCaseCount / 400.0;
+
+            puncCountVarSarcastic = (double)totalPuncCountS/400.0 - (puncCountMeanSarcastic * puncCountMeanSarcastic);
+            wordCaseVarSarcastic = (double)totalWordCaseCountS/400.0 - (wordCaseMeanSarcastic * wordCaseMeanSarcastic);
+        }
 
     }
 
@@ -330,9 +485,9 @@ public class Main {
 
         String filePath = "";
         if(type.equals("nonsarcasm")){
-             filePath = "/Users/mugekurtipek/Desktop/nonsarcasmPosTag.txt";
+             filePath = "/Users/mugekurtipek/Desktop/nonsarcasmTraining.txt";
         }else{
-            filePath = "/Users/mugekurtipek/Desktop/sarcasmPosTag.txt";
+            filePath = "/Users/mugekurtipek/Desktop/sarcasmTraining.txt";
         }
 
         BufferedReader br = new BufferedReader(new FileReader(filePath));
@@ -342,7 +497,7 @@ public class Main {
         ArrayList<Integer> verbCount = new ArrayList<>();
         ArrayList<Integer> adjCount = new ArrayList<>();
         ArrayList<Integer> advCount = new ArrayList<>();
-        for(int i = 0; i<500; i++){
+        for(int i = 0; i<400; i++){
             nounCount.add(0);
             verbCount.add(0);
             adjCount.add(0);
@@ -378,7 +533,15 @@ public class Main {
         int totalVerbS = 0;
         int totalAdjS = 0;
         int totalAdvS = 0;
-        for(int i = 0; i<500; i++){
+
+        int totalNounToAdj = 0;
+        int totalNounToAdjS = 0;
+
+        int totalVerbToAdv = 0;
+        int totalVerbToAdvS = 0;
+
+
+        for(int i = 0; i<400; i++){
             totalNoun += nounCount.get(i);
             totalVerb += verbCount.get(i);
             totalAdj += adjCount.get(i);
@@ -388,30 +551,49 @@ public class Main {
             totalVerbS += verbCount.get(i) * verbCount.get(i);
             totalAdjS += adjCount.get(i) * adjCount.get(i);
             totalAdvS += advCount.get(i) * advCount.get(i);
+
+            totalNounToAdj += (double)nounCount.get(i)/(double)adjCount.get(i);
+            totalNounToAdjS += (double)nounCount.get(i)/(double)adjCount.get(i) * (double)nounCount.get(i)/(double)adjCount.get(i);
+
+            totalVerbToAdv += (double)verbCount.get(i)/(double)advCount.get(i);
+            totalVerbToAdvS += (double)verbCount.get(i)/(double)advCount.get(i) * (double)verbCount.get(i)/(double)advCount.get(i);
         }
 
         if(type.equals("nonsarcasm")){
-            posAdjMeanNonSarcastic = (double)totalAdj/500.0;
-            posAdvMeanNonSarcastic = (double)totalAdv/500.0;
-            posVerbMeanNonSarcastic = (double)totalVerb/500.0;
-            posNounMeanNonSarcastic = (double)totalNoun/500.0;
+            posAdjMeanNonSarcastic = (double)totalAdj/400.0;
+            posAdvMeanNonSarcastic = (double)totalAdv/400.0;
+            posVerbMeanNonSarcastic = (double)totalVerb/400.0;
+            posNounMeanNonSarcastic = (double)totalNoun/400.0;
 
-            posAdjVarNonSarcastic = (double)totalAdjS/500.0 - (posAdjMeanNonSarcastic * posAdjMeanNonSarcastic);
-            posAdvVarNonSarcastic = (double)totalAdvS/500.0 - (posAdvMeanNonSarcastic * posAdvMeanNonSarcastic);
-            posNounVarNonSarcastic = (double)totalNounS/500.0 - (posNounMeanNonSarcastic * posNounMeanNonSarcastic);
-            posVerbVarNonSarcastic = (double)totalVerbS/500.0 - (posVerbMeanNonSarcastic * posVerbMeanNonSarcastic);
+            posAdjVarNonSarcastic = (double)totalAdjS/400.0 - (posAdjMeanNonSarcastic * posAdjMeanNonSarcastic);
+            posAdvVarNonSarcastic = (double)totalAdvS/400.0 - (posAdvMeanNonSarcastic * posAdvMeanNonSarcastic);
+            posNounVarNonSarcastic = (double)totalNounS/400.0 - (posNounMeanNonSarcastic * posNounMeanNonSarcastic);
+            posVerbVarNonSarcastic = (double)totalVerbS/400.0 - (posVerbMeanNonSarcastic * posVerbMeanNonSarcastic);
+
+            posNounToAdjMeanNonSarcastic = (double)totalNounToAdj/400.0;
+            posNounToAdjVarNonSarcastic = (double)totalNounToAdjS/400.0 - (posNounToAdjMeanNonSarcastic * posNounToAdjMeanNonSarcastic);
+
+            posVerbToAdvMeanNonSarcastic = (double)totalVerbToAdv/400.0;
+            posVerbToAdvVarNonSarcastic = (double)totalVerbToAdvS/400.0 - (posVerbToAdvMeanNonSarcastic * posVerbToAdvMeanNonSarcastic);
+
         }else{
-            posAdjMeanSarcastic = (double)totalAdj/500.0;
-            posAdvMeanSarcastic = (double)totalAdv/500.0;
-            posVerbMeanSarcastic = (double)totalVerb/500.0;
-            posNounMeanSarcastic = (double)totalNoun/500.0;
+            posAdjMeanSarcastic = (double)totalAdj/400.0;
+            posAdvMeanSarcastic = (double)totalAdv/400.0;
+            posVerbMeanSarcastic = (double)totalVerb/400.0;
+            posNounMeanSarcastic = (double)totalNoun/400.0;
 
-            posAdjVarSarcastic = (double)totalAdjS/500.0 - (posAdjMeanSarcastic * posAdjMeanSarcastic);
-            posAdvVarSarcastic = (double)totalAdvS/500.0 - (posAdvMeanSarcastic * posAdvMeanSarcastic);
-            posNounVarSarcastic = (double)totalNounS/500.0 - (posNounMeanSarcastic * posNounMeanSarcastic);
-            posVerbVarSarcastic = (double)totalVerbS/500.0 - (posVerbMeanSarcastic * posVerbMeanSarcastic);
+            posAdjVarSarcastic = (double)totalAdjS/400.0 - (posAdjMeanSarcastic * posAdjMeanSarcastic);
+            posAdvVarSarcastic = (double)totalAdvS/400.0 - (posAdvMeanSarcastic * posAdvMeanSarcastic);
+            posNounVarSarcastic = (double)totalNounS/400.0 - (posNounMeanSarcastic * posNounMeanSarcastic);
+            posVerbVarSarcastic = (double)totalVerbS/400.0 - (posVerbMeanSarcastic * posVerbMeanSarcastic);
+
+            posNounToAdjMeanSarcastic = (double)totalNounToAdj/400.0;
+            posNounToAdjVarSarcastic = (double)totalNounToAdjS/400.0 - (posNounToAdjMeanSarcastic * posNounToAdjMeanSarcastic);
+
+            posVerbToAdvMeanSarcastic = (double)totalVerbToAdv/400.0;
+            posVerbToAdvVarSarcastic = (double)totalVerbToAdvS/400.0 - (posVerbToAdvMeanSarcastic * posVerbToAdvMeanSarcastic);
+
         }
-
 
 
     }
