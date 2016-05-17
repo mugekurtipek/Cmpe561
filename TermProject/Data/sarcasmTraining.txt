@@ -1,0 +1,400 @@
+SENTENCESTARTSHERE|RB Britain|NNP First|NNP yobs|VBZ fined|VBN for|IN harassing|NN &|CC insulting|VBG fellow|JJ Brits|NNS .|. 
+SENTENCESTARTSHERE|NNP Ca|NNP n't|RB wait|VB to|TO see|VB that|IN train|NN wreck|NN !|. 
+SENTENCESTARTSHERE|NNP Ca|NNP n't|RB wait|VB to|TO see|VB that|IN train|NN wreck|NN !|. 
+SENTENCESTARTSHERE|NNP Ca|NNP n't|RB wait|VB to|TO see|VB that|IN train|NN wreck|NN !|. 
+SENTENCESTARTSHERE|NNP Now|NNP that|WDT is|VBZ how|WRB a|DT Sunday|NNP afternoon|NN should|MD be|VB spent|VBN not|RB on|IN Twitter|NNP :|: )|: 
+SENTENCESTARTSHERE|NNP Britain|NNP First|NNP yobs|VBZ fined|VBN for|IN harassing|NN &|CC insulting|VBG fellow|JJ Brits|NNS .|. 
+SENTENCESTARTSHERE|NNP marathon|NN !|. is|VBZ just|RB drop|NN dead|NN gorgeous|JJ !|. …|: 
+SENTENCESTARTSHERE|NNP marathon|NN !|. is|VBZ just|RB drop|NN dead|NN gorgeous|JJ !|. 
+SENTENCESTARTSHERE|NNP apart|NN from|IN the|DT creche|NN ,|, beauty|NN parlor|NN &|CC atm|NN ?|. It|PRP 's|VBZ a|DT great|JJ achievement|NN .|. Kudos|NNP 
+SENTENCESTARTSHERE|NNP trying|VBG 2|CD improve|NN affordable|JJ houses|NNS .|. Such|JJ a|DT shame|NN there|EX has|VBZ n't|RB been|VBN housing|VBG &|CC planning|VBG leg|NN to|TO address|VB that|IN …|CD 
+SENTENCESTARTSHERE|NNP trying|VBG 2|CD improve|NN affordable|JJ houses|NNS .|. Such|JJ a|DT shame|NN there|EX has|VBZ n't|RB been|VBN housing|VBG &|CC planning|VBG leg|NN to|TO address|VB that|IN …|CD 
+SENTENCESTARTSHERE|NNP -With|NNP So|NNP Many|NNP Men|NNP Falling|NNP At|NNP Her|NNP Feet|NNP ,|, She|NNP Chose|NNP The|NNP One|NNP Still|NNP Standing|NNP !|. !|. 
+SENTENCESTARTSHERE|NNP well|RB done|VBN Hamilton|NNP 
+SENTENCESTARTSHERE|NNP Ca|NNP n't|RB eat|VB money|NN .|. Ca|NNP n't|RB eat|VB .|. Ca|NNP n't|RB eat|VB cynicism|NN or|CC acerbic|JJ wit|NN .|. is|VBZ all|DT that|DT sticks|VBZ to|TO the|DT bones|NNS .|. 
+SENTENCESTARTSHERE|NNP I|PRP 'm|VBP seeing|VBG people|NNS defending|VBG Pop|NNP in|IN the|DT Cam|NNP comparison|NN by|IN saying|VBG that|IN 's|POS Pop|NNP ,|, he|PRP 's|VBZ not|RB changing|VBG for|IN anyone|NN ...|: ht…|JJ 
+SENTENCESTARTSHERE|NNP I|PRP ca|MD n't|RB wait|VB for|IN the|DT arthritis|NNS in|IN My|NNP knee|NN to|TO develop|VB a|DT little|RB more|RBR so|RB I|PRP can|MD start|VB walking|VBG like|IN a|DT penguin|NN .|. 
+SENTENCESTARTSHERE|NNP Here|NNP 's|POS a|DT picture|NN of|IN great|JJ historical|JJ significance|NN 
+SENTENCESTARTSHERE|NNP I|PRP like|VBP how|WRB when|WRB I|PRP really|RB need|VBP it|PRP none|NN of|IN you|PRP are|VBP there|RB for|IN me|PRP ...|: This|DT makes|VBZ me|PRP feel|VBP great|JJ about|IN my|PRP$ 3|CD year|NN coming|VBG up|IN ...|: ...|: ...|: .|. ?|. ?|. 
+SENTENCESTARTSHERE|NNP coverage|NN is|VBZ amazing|VBG 
+SENTENCESTARTSHERE|RB Dear|NNP USA|NNP Professional|NNP haters/low|NNP critics|NNS taken|VBN their|PRP$ best|JJS shots|NNS .|. still|RB stands|VBZ .|. He|PRP has|VBZ been|VBN normalized|VBN .|. He|PRP will|MD win|VB .|. 
+SENTENCESTARTSHERE|NNP Here|NNP Lies|NNPS by|IN H|NNP .|. W|NNP .|. Guernsey|NNP When|NNP the|DT friend|NN you|PRP give|VBP everything|VBG to|TO wants|NNS more|JJR 
+SENTENCESTARTSHERE|NNP apart|NN from|IN the|DT creche|NN ,|, beauty|NN parlor|NN &|CC atm|NN ?|. It|PRP 's|VBZ a|DT great|JJ achievement|NN .|. Kudos|NNP 
+SENTENCESTARTSHERE|NNP The|NNP wealthy|JJ NEED|NNP more|RBR tax|NN cuts|NNS .|. Taxes|NNS have|VBP nearly|RB driven|VBN them|PRP to|TO extinction|NN .|. Their|NNP current|JJ population|NN is|VBZ around|IN 1|CD %|NN .|. 
+SENTENCESTARTSHERE|NNP trying|VBG 2|CD improve|NN affordable|JJ houses|NNS .|. Such|JJ a|DT shame|NN there|EX has|VBZ n't|RB been|VBN housing|VBG &|CC planning|VBG leg|NN to|TO address|VB that|IN …|CD 
+SENTENCESTARTSHERE|NNP sounds|NNS AMAZING|NNP think|VBP i|PRP saw|VBD him|PRP looking|VBG at|IN the|DT lyrics|NNS .|. MY|NNP ears|NNS ,|, my|PRP$ ears|NNS !|. !|. 
+SENTENCESTARTSHERE|NNP Finally|NNP gets|VBZ tired|VBN when|WRB the|DT suns|NNS about|IN to|TO come|VB out|RP 
+SENTENCESTARTSHERE|NNP -With|NNP So|NNP Many|NNP Men|NNP Falling|NNP At|NNP Her|NNP Feet|NNP ,|, She|NNP Chose|NNP The|NNP One|NNP Still|NNP Standing|NNP !|. !|. 
+SENTENCESTARTSHERE|NNP -You|NNP Are|NNP The|NNP Glacier|NNP Of|NNP My|NNP Heart|NNP ,|, Your|NNP Selfishness|NNP Freezes|NNP Me|NNP !|. !|. 
+SENTENCESTARTSHERE|NNP apart|NN from|IN the|DT creche|NN ,|, beauty|NN parlor|NN &|CC atm|NN ?|. It|PRP 's|VBZ a|DT great|JJ achievement|NN .|. Kudos|NNP 
+SENTENCESTARTSHERE|NNP See|NNP how|WRB the|DT gun|NN laws|NNS prevented|VBD this|DT ?|. 
+SENTENCESTARTSHERE|NNP apart|NN from|IN the|DT creche|NN ,|, beauty|NN parlor|NN &|CC atm|NN ?|. It|PRP 's|VBZ a|DT great|JJ achievement|NN .|. Kudos|NNP 
+SENTENCESTARTSHERE|NNP so|RB ,|, newsflash|NN ,|, does|VBZ not|RB sell|VB bags|NNS of|IN ice|NN .|. I|PRP find|VBP this|DT (|NN do|VBP n't|RB you|PRP think|VBP ?|. )|: 
+SENTENCESTARTSHERE|NNP This|NNP blog|NN post|NN has|VBZ had|VBN most|RBS views|NNS ever|RB and|CC its|PRP$ FB|NNP post|NN has|VBZ had|VBN 10|CD times|NNS usual|JJ reach|NN .|. ht…|NN 
+SENTENCESTARTSHERE|NNP Dear|NNP White|NNP people|NNS ,|, stop|VB doing|VBG our|PRP$ do|NN 's|POS ..|NNP ..|NNP *|-NONE- ahem|VB *|-NONE- ?|. ?|. 
+SENTENCESTARTSHERE|NNP I|PRP 'm|VBP seeing|VBG people|NNS defending|VBG Pop|NNP in|IN the|DT Cam|NNP comparison|NN by|IN saying|VBG that|IN 's|POS Pop|NNP ,|, he|PRP 's|VBZ not|RB changing|VBG for|IN anyone|NN ...|: ht…|JJ 
+SENTENCESTARTSHERE|NNP Dear|NNP White|NNP people|NNS ,|, stop|VB doing|VBG our|PRP$ do|NN 's|POS ..|NNP ..|NNP *|-NONE- ahem|VB *|-NONE- ?|. ?|. 
+SENTENCESTARTSHERE|NNP VOTE|NNP HILLARY|NNP !|. ``|`` ''|'' A|DT candidate|NN with|IN flexibility|NN ``|`` ''|'' 
+SENTENCESTARTSHERE|NNP It|NNP 's|POS said|VBD that|IN is|VBZ the|DT lowest|JJS form|NN of|IN .|. To|TO that|DT I|PRP say|VBP No|DT ,|, really|RB ?|. Hey|NNP ,|, somebody|NN give|VBP this|DT person|NN a|DT !|. 
+SENTENCESTARTSHERE|NNP did|VBD you|PRP guys|VBZ catch|NN the|DT sarcasm|NN in|IN that|DT tweet|NN or|CC should|MD I|PRP start|VB hashtagging|VBG when|WRB I|PRP 'm|VBP using|VBG it|PRP ?|. 
+SENTENCESTARTSHERE|NNP The|NNP wealthy|JJ NEED|NNP more|RBR tax|NN cuts|NNS .|. Taxes|NNS have|VBP nearly|RB driven|VBN them|PRP to|TO extinction|NN .|. Their|NNP current|JJ population|NN is|VBZ around|IN 1|CD %|NN .|. 
+SENTENCESTARTSHERE|NNP I|PRP 'm|VBP pointing|VBG out|RP an|DT a|DT double|JJ standard|JJ of|IN the|DT media|NNS a|DT willing|JJ blindness|NN at|IN the|DT Boston|NNP globe|NN 
+SENTENCESTARTSHERE|NNP I|PRP am|VBP beside|JJ myself|NN I|PRP think|VBP you|PRP need|VBP to|TO seriously|RB use|VB the|DT 
+SENTENCESTARTSHERE|NNP Every|NNP member|NN at|IN Ministers|NNPS '|POS Meeting|NNP had|VBD a|DT bottle|NN of|IN at|IN her|PRP$ seat|NN .|. htt…|NN 
+SENTENCESTARTSHERE|NNP Newcastle|NNP fans|VBZ at|IN Villa|NNP without|IN the|DT benefit|NN of|IN hindsight|NN 
+SENTENCESTARTSHERE|NNP As|NNP usual|JJ ,|, the|DT Soetta|NNP is|VBZ very|RB professional|JJ and|CC well|RB managed|VBN .|. 
+SENTENCESTARTSHERE|NNP Honestly|NNP ,|, Rangers|NNP fans|NNS bleeting|VBG on|IN about|IN '|POS obsessed|VBN '|'' tims|NNS is|VBZ cringey|NN as|IN fuck|NN !|. 
+SENTENCESTARTSHERE|NNP trying|VBG 2|CD improve|NN affordable|JJ houses|NNS .|. Such|JJ a|DT shame|NN there|EX has|VBZ n't|RB been|VBN housing|VBG &|CC planning|VBG leg|NN to|TO address|VB that|IN 
+SENTENCESTARTSHERE|NNP Honestly|NNP ,|, Rangers|NNP fans|NNS bleeting|VBG on|IN about|IN '|POS obsessed|VBN '|'' tims|NNS is|VBZ cringey|NN as|IN fuck|NN !|. 
+SENTENCESTARTSHERE|NNP Hey|NNP ,|, hi|NN .|. I|PRP 'm|VBP here|RB to|TO look|VB pretty|RB and|CC insult|NN your|PRP$ intelligence|NN .|. [|NN insert|NN something|NN insulting|VBG to|TO your|PRP$ intelligence|NN and|CC hairflip|NN here|RB ]|. 
+SENTENCESTARTSHERE|NNP Wow|NNP did|VBD CN|NNP FC|NNP tweeted|VBD out|RP a|DT series|NN of|IN JH|NNP bday|NN greetings|NNS over|IN a|DT span|NN of|IN a|DT few|JJ hrs|NNS !|. ?|. 대박|: ~~~|: …|: 
+SENTENCESTARTSHERE|NNP I|PRP shared|VBD a|DT blog|NN on|IN not|RB having|VBG kids|NNS &|CC got|VBD added|VBN to|TO a|DT list|NN for|IN mums|NNS .|. To|TO my|PRP$ childless|NN ladies|NNS and|CC Gents|NNS !|. !|. 
+SENTENCESTARTSHERE|NNP US|NNP backs|VBZ India|NNP 's|POS entry|NN into|IN MTCR|NNP &|CC NSG|NNP .|. China|NNP says|VBZ no|DT ,|, says|VBZ NPT|NNP key|NN condition|NN to|TO enter|VB ?|. ?|. ?|. ?|. NPT|NNP 
+SENTENCESTARTSHERE|NNP The|NNP Ministry|NNP of|IN Peace|NNP ...|: which|WDT concerned|VBN itself|PRP with|IN war|NN ...|: 
+SENTENCESTARTSHERE|NNP Wait|NNP ...|: that|IN was|VBD n't|RB supposed|VBN to|TO happen|VB ?|. !|. 
+SENTENCESTARTSHERE|NNP Gota|NNP love|VBD fellow|JJ whites|NNS pretendin|VBP 2not|JJ member|NN last|JJ blackface|NN incident|NN So|RB thy|JJ can|MD do|VB blckface|NN gain|VB 2feel|CD superior|JJ So|NNP proud|NN 
+SENTENCESTARTSHERE|NNP Flawless|NNP cookery|NN skills|NNS by|IN on|IN .|. Total|NNP pro|NN making|VBG his|PRP$ Kung|NNP Fu|NNP Tuna|NNP ?|. ?|. ?|. ?|. ?|. ?|. 
+SENTENCESTARTSHERE|NNP Has|NNP nobody|NN considered|VBD shootouts|NNS place|NN on|IN calender|NN ?|. Less|NNP than|IN 2mths|CD b4|NNP crucible|JJ ,|, could|MD prove|VB pivotal|JJ to|TO top|VB 16|CD 
+SENTENCESTARTSHERE|NNP lying|NN well|RB there|RB 's|VBZ news|NN 
+SENTENCESTARTSHERE|NNP Badass|NNP coffee|NN mug|NN ,|, funny|JJ coffee|NN mug|NN ,|, badass|NN mofo|NN ,|, coffee|NN cup|NN ,|, novelt…|NNP 
+SENTENCESTARTSHERE|NNP Fun|NNP day|NN ahead|RB 
+SENTENCESTARTSHERE|NNP Let|NNP 's|POS tackle|NN misogyny|NN ,|, sexism|NN and|CC racism|NN with|IN misandry|JJ ,|, reverse|NN sexism|NN and|CC more|JJR racism|NN .|. Yay|NNP !|. please…|-NONE- 
+SENTENCESTARTSHERE|NNP And|CC how|WRB long|JJ has|VBZ this|DT been|VBN the|DT excuse|NN ?|. Thatcher|NNP really|RB sorted|VBD it|PRP out|IN !|. 30+yrs|NNS ago|RB !|. 
+SENTENCESTARTSHERE|NNP You|NNP represent|NN the|DT decadence|NN of|IN the|DT West|NNP .|. A|DT woman|NN who|WP ca|MD n't|RB thread|VB a|DT needle|NN and|CC does|VBZ n't|RB want|VB to|TO do|VB dishes|NNS ?|. 
+SENTENCESTARTSHERE|NNP 50|CD shades|NNS of|IN blue|JJ !|. 
+SENTENCESTARTSHERE|NNP Wow|NNP the|DT commentary|JJ between|IN songs|NNS is|VBZ just|RB amazing|VBG ...|: ..|: 
+SENTENCESTARTSHERE|NNP This|NNP day|NN is|VBZ just|RB flying|VBG by|IN !|. ?|. 
+SENTENCESTARTSHERE|NNP Only|NNP is|VBZ doing|VBG development|NN in|IN India|NNP .|. But|CC it|PRP 's|VBZ who|WP always|RB blames|VBZ him|PRP .|. I|PRP m|VBP bhakt…|JJ 
+SENTENCESTARTSHERE|NNP This|NNP ,|, from|IN a|DT resident|NN of|IN the|DT US|NNP .|. A|DT country|NN which|WDT still|RB favours|VBZ the|DT death|NN penalty|NN .|. 
+SENTENCESTARTSHERE|NNP Gosh|NNP .|. Are|NNP you|PRP suggesting|VBG that|IN women|NNS a|DT )|NN Have|NNP a|DT sense|NN of|IN humour|PRP$ and|CC b|NN )|: Can|MD be|VB funny|JJ ?|. Know|NNP you|PRP 're|VBP place|NN woman|NN .|. 
+SENTENCESTARTSHERE|NNP It|NNP 's|POS shitty|NN when|WRB '|'' s|VBZ Internet|NNP has|VBZ been|VBN very|RB awesome|JJ for|IN the|DT past|JJ week|NN ...|: thanks|NNS 
+SENTENCESTARTSHERE|NNP This|NNP day|NN is|VBZ just|RB flying|VBG by|IN !|. ?|. 
+SENTENCESTARTSHERE|NNP Oh|NNP yes|VBZ !|. huge|JJ !|. 
+SENTENCESTARTSHERE|NNP did|VBD you|PRP guys|VBZ catch|NN the|DT sarcasm|NN in|IN that|DT tweet|NN or|CC should|MD I|PRP start|VB hashtagging|VBG when|WRB I|PRP 'm|VBP using|VBG it|PRP ?|. 
+SENTENCESTARTSHERE|NNP Our|NNP site|NN is|VBZ still|RB down|IN thanks|NNS to|TO &|CC their|PRP$ amazing|NN work|NN Stay|NNP with|IN us|PRP guys|NNS we|PRP 'll|MD be|VB back|RB ASAP|NNP &|CC sorry|NN for|IN those|DT trying|VBG to|TO order|NN 
+SENTENCESTARTSHERE|NNP if|IN you|PRP have|VBP already|RB encountered|VBN someone|NN today|NN that|WDT does|VBZ n't|RB understand|VB your|PRP$ htt…|NN 
+SENTENCESTARTSHERE|NNP This|NNP is|VBZ some|DT seriously|RB funny|JJ stuff|NN !|. Authos|NNP are|VBP poor|JJ ;|: actors|NNS get|VBP all|DT the|DT credit|NN .|. 
+SENTENCESTARTSHERE|NNP Your|NNP right|NN buddy|NN ,|, 10|CD second|JJ shot|NN clock|NN tournament|NN is|VBZ a|DT ranking|NN event|NN but|CC The|DT Masters|NNS and|CC the|DT Champion|NNP of|IN Cham…|NNP 
+SENTENCESTARTSHERE|NNP ACC|NNP Sutcliffe|NNP is|VBZ soon|RB to|TO marry|VB former|JJ Head|NNP of|IN GMP|NNP Professional|NNP Standards|NNP CS|NNP Paul|NNP Rumney|NNP 
+SENTENCESTARTSHERE|NNP Only|NNP is|VBZ doing|VBG development|NN in|IN India|NNP .|. But|CC it|PRP 's|VBZ who|WP always|RB blames|VBZ him|PRP .|. I|PRP m|VBP bhakt|JJ 
+SENTENCESTARTSHERE|NNP -|: >|: laundry|NN song|IN 
+SENTENCESTARTSHERE|NNP Vagina|NNP rules|NNS T-shirt|-NONE- ,|, girl|NN power|NN shirt|NN ,|, graphic|JJ tee|NN ,|, statement|NN Tshirt|NNP ,|, gi…|NNP 
+SENTENCESTARTSHERE|NNP Your|NNP right|NN buddy|NN ,|, 10|CD second|JJ shot|NN clock|NN tournament|NN is|VBZ a|DT ranking|NN event|NN but|CC The|DT Masters|NNS and|CC the|DT Champion|NNP of|IN Champions|NNPS is|VBZ n't|RB ?|. ?|. 
+SENTENCESTARTSHERE|NNP Get|NNP home|NN and|CC wan|NN na|NN watch|NN Seinfeld|NNP ?|. Thank|NNP fuck|NN I|PRP did|VBD n't|RB waste|VB $|$ on|IN Channels|NNP 
+SENTENCESTARTSHERE|NNP WE|NNP WAIT|NNP with|IN baited|JJ breath|NN for|IN the|DT image|NN of|IN BUK|NNP launch|NN position|NN 
+SENTENCESTARTSHERE|NNP its|PRP$ never|NN too|RB late|JJ to|TO go|VB wrong|JJ tank|NN top|JJ shirt|NN 
+SENTENCESTARTSHERE|NNP Physically|NNP ,|, the|DT distance|NN between|IN us|PRP is|VBZ shorter|RBR than|IN it|PRP 's|VBZ been|VBN in|IN a|DT long|JJ time|NN ,|, emotionally|RB it|PRP 's|VBZ further|JJ than|IN its|PRP$ ever|NN been|VBN 
+SENTENCESTARTSHERE|NNP Oh|NNP !|. !|. The|DT 
+SENTENCESTARTSHERE|NNP That|NNP fumble|JJ by|IN Eagles|NNP should|MD have|VB been|VBN paid|VBN as|IN deliberate|JJ given|VBN the|DT Josh|NNP Bruce|NNP deliberate|NN 
+SENTENCESTARTSHERE|NNP White|NNP women|NNS will|MD love|VB this|DT generalisation|NN 
+SENTENCESTARTSHERE|NNP ,|, a|DT party|NN that|WDT protects|VBZ Interests|NNS of|IN ``|`` ''|'' Wife|NNP Beater|NNP ``|`` ''|'' Somnath|NNP Bharti|NNP is|VBZ having|VBG ``|`` ''|'' Punjab|NNP Women|NNP Dialogue|NNP ``|`` ''|'' ''|'' 
+SENTENCESTARTSHERE|NNP Hey|NNP thanks|VBZ to|TO all|DT my|PRP$ new|JJ followers|NNS in|IN the|DT last|JJ 3|CD minutes|NNS ,|, 14|CD !|. and|CC all|DT of|IN them|PRP seem|VBP to|TO sell|VB muscle|NN enhancement|NN products|NNS !|. Bonus|NNP !|. 
+SENTENCESTARTSHERE|NNP tweet|NN ?|. 
+SENTENCESTARTSHERE|NNP It|NNP 's|POS awesome|NN when|WRB '|'' s|VBZ Internet|NNP has|VBZ been|VBN very|RB shitty|JJ for|IN the|DT past|JJ week|NN ...|: thanks|NNS 
+SENTENCESTARTSHERE|VBP I|PRP love|VBP that|IN cute|JJ thing|NN you|PRP do|VBP when|WRB you|PRP come|VBP up|RP to|TO me|PRP and|CC make|VB disparaging|VBG remarks|NNS .|. So|RB .|. Cute|NNP .|. Oh|NNP my|PRP$ kokoro|NN .|. 
+SENTENCESTARTSHERE|NNP No|NNP ,|, it|PRP 's|VBZ not|RB a|DT offence|NN under|IN RTE|NNP for|IN minority|NN schools|NNS .|. !|. of|IN Indian|NNP 
+SENTENCESTARTSHERE|NNP My|NNP MP|NNP ,|, Andrea|NNP Leadsom|NNP ,|, former|JJ Barclays|NNS director|NN ,|, taking|VBG about|IN evil|JJ bankers|NNS on|IN Marr|NNP .|. 
+SENTENCESTARTSHERE|NNP if|IN you|PRP have|VBP already|RB encountered|VBN someone|NN today|NN that|WDT does|VBZ n't|RB understand|VB your|PRP$ htt…|NN 
+SENTENCESTARTSHERE|NNP Loving|NNP the|DT new|JJ trend|NN where|WRB people|NNS randomly|RB remove|VBP something|NN from|IN the|DT their|PRP$ diet|NN for|IN an|DT arbitrary|JJ amount|NN of|IN time|NN .|. …|: 
+SENTENCESTARTSHERE|NNP My|NNP MP|NNP ,|, Andrea|NNP Leadsom|NNP ,|, former|JJ Barclays|NNS director|NN ,|, taking|VBG about|IN evil|JJ bankers|NNS on|IN Marr|NNP .|. 
+SENTENCESTARTSHERE|NNP Loving|NNP the|DT new|JJ trend|NN where|WRB people|NNS randomly|RB remove|VBP something|NN from|IN the|DT their|PRP$ diet|NN for|IN an|DT arbitrary|JJ amount|NN of|IN time|NN .|. 
+SENTENCESTARTSHERE|NNP It|NNP takes|VBZ sadness|NN to|TO know|VB what|WP happiness|NN is|VBZ ,|, noise|RB to|TO appreciate|VB silence|NN ,|, and|CC absence|NN to|TO value|NN presence|NN .|. Life|NNP is|VBZ 
+SENTENCESTARTSHERE|NNP Former|NNP vessel|NN now|RB doing|VBG weeklong|IN liveaboard|NN dive|JJ trips|NNS out|IN of|IN Chuuk|NNP .|. 
+SENTENCESTARTSHERE|NNP Looks|NNP like|IN the|DT guy|NN on|IN the|DT left|NN is|VBZ attempting|VBG to|TO impersonate|VB a|DT black|JJ man|NN .|. ``|`` ''|'' SJW|NNP 'S|POS TAKE|NNP UP|NNP ARMS|NNP ``|`` ''|'' .|. 
+SENTENCESTARTSHERE|NNP But|CC the|DT Prince|NNP who|WP located|VBN me|PRP through|IN the|DT FBI|NNP says|VBZ it|PRP 's|VBZ not|RB so|RB !|. My|NNP money|NN is|VBZ at|IN the|DT airport|NN now|RB !|. 
+SENTENCESTARTSHERE|NNP is|VBZ she|PRP mocking|VBG 
+SENTENCESTARTSHERE|NNP Blackburn|NNP fan|NN talking|VBG about|IN pub|NN football|NN .|. 
+SENTENCESTARTSHERE|NNP I|PRP had|VBD a|DT choice|NN ?|. damn|RB right|RB I|PRP do|VBP !|. because|IN everything|NN that|IN has|VBZ happened|VBN in|IN my|PRP$ life|NN from|IN the|DT moment|NN I|PRP got|VBD here|RB was|VBD my|PRP$ decision|NN 
+SENTENCESTARTSHERE|NNP Did|NNP you|PRP know|VB the|DT word|NN ``|`` ''|'' vegan|NN ``|`` ''|'' is|VBZ magical|JJ ?|. Mention|NNP you|PRP 're|VBP vegan|JJ and…*POOF|JJ !|. *…suddenly|JJ everyone|NN 's|POS a|DT nutrition|NN expert|NN !|. …|: 
+SENTENCESTARTSHERE|NNP Wow|NNP did|VBD CN|NNP FC|NNP tweeted|VBD out|RP a|DT series|NN of|IN JH|NNP bday|NN greetings|NNS over|IN a|DT span|NN of|IN a|DT few|JJ hrs|NNS !|. ?|. 대박|: ~~~|: ?|. ?|. ?|. ?|. ?|. ?|. ?|. ?|. 
+SENTENCESTARTSHERE|NNP appropriating|NN Eebe|NNP to|TO use|VB in|IN the|DT place|NN of|IN God|NNP but|CC calling|VBG Pre-Islamic|JJ deity|NN age|NN of|IN ignorance|NN .|. 
+SENTENCESTARTSHERE|NNP Did|NNP you|PRP know|VB that|IN jazz|NN flutes|NNS are|VBP actually|RB saxophones|NNS ?|. ?|. ?|. ?|. ?|. ?|. ?|. 
+SENTENCESTARTSHERE|NNP Junaid|NNP Hafeez|NNP condemned|VBD forever|NN ?|. The|DT very|JJ thing|NN Taseer|NNP mentiobed|VBD and|CC gunned|VBN down|RP later|JJ on|IN ..|NNP .|. WTP|NNP 
+SENTENCESTARTSHERE|NNP Hallo|NNP next|JJ year|NN in|IN !|. 
+SENTENCESTARTSHERE|NNP You|NNP 're|NNP right|VBD there|RB !|. !|. 
+SENTENCESTARTSHERE|NNP did|VBD you|PRP guys|VBZ catch|NN the|DT sarcasm|NN in|IN that|DT tweet|NN or|CC should|MD I|PRP start|VB hashtagging|VBG when|WRB I|PRP 'm|VBP using|VBG it|PRP ?|. 
+SENTENCESTARTSHERE|NNP I|PRP am|VBP beside|JJ myself|NN I|PRP think|VBP you|PRP need|VBP to|TO seriously|RB use|VB the|DT 
+SENTENCESTARTSHERE|NNP James|NNP the|DT says|VBZ that|IN people|NNS are|VBP treasure|JJ but|CC treats|NNS them|PRP like|IN trash|NN when|WRB they|PRP disagree|VBP with|IN his|PRP$ beliefs|NNS .|. 
+SENTENCESTARTSHERE|NNP Being|NNP modest|JJS is|VBZ not|RB about|IN being|VBG scared|VBN .|. When|WRB the|DT modest|JJS ones|NNS speak|VBP ,|, they|PRP are|VBP taken|VBN to|TO be|VB the|DT villains|NNS .|. Wao|NNP ...|: is|VBZ n't|RB this|DT a|DT ?|. 
+SENTENCESTARTSHERE|NNP Nope|NNP ,|, she|PRP was|VBD n't|RB fired|VBN by|IN Redford|NNP for|IN corruption|NN .|. Redford|NNP is|VBZ a|DT GREAT|JJ example|NN of|IN someone|NN with|IN a|DT good|JJ moral|JJ compass|NN 
+SENTENCESTARTSHERE|NNP nodded|VBD lobby|NN AND|CC aimbot|NN .|. Your|NNP games|NNS are|VBP SO|RB much|RB fun|VBN 
+SENTENCESTARTSHERE|NNP great|JJ picture|NN choice|NN .|. Accurately|RB portrays|VBZ him|PRP as|IN a|DT normal|JJ ,|, fun|NN loving|VBG ,|, western|JJ guy|NN !|. 
+SENTENCESTARTSHERE|NNP I|PRP am|VBP sure|JJ it|PRP will|MD be|VB full|JJ of|IN non-cherry|JJ picked|VBN stats|NNS like|IN we|PRP 've|VBP come|VBN to|TO expect|VB .|. 
+SENTENCESTARTSHERE|NNP Yet|NNP voting|NN for|IN Hillary|NNP ?|. 
+SENTENCESTARTSHERE|NNP if|IN you|PRP have|VBP already|RB encountered|VBN someone|NN today|NN that|WDT does|VBZ n't|RB understand|VB your|PRP$ htt…|NN 
+SENTENCESTARTSHERE|NNP No|NNP sex|NN before|IN marriage|NN ?|. ?|. ?|. If|IN that|DT was|VBD God|NNP 's|POS plan|NN you|PRP would|MD receive|VB your|PRP$ Penis|NNP or|CC Vagina|NNP on|IN your|PRP$ wedding|NN day|NN .|. 
+SENTENCESTARTSHERE|NNP if|IN you|PRP have|VBP already|RB encountered|VBN someone|NN today|NN that|WDT does|VBZ n't|RB understand|VB your|PRP$ htt…|NN 
+SENTENCESTARTSHERE|NNP my|PRP$ luck|NN is|VBZ so|RB fucking|VBG awesome|NN .|. flat|JJ tire|NN .|. pissed|VBN off|RP bf|NN .|. hungry|NN af|NN .|. what|WP else|RB can|MD go|VB wrong|JJ ?|. ?|. ?|. ?|. ?|. ?|. ?|. ?|. ?|. 
+SENTENCESTARTSHERE|NNP I|PRP bet|VBP it|PRP will|MD be|VB a|DT bestseller|NN 
+SENTENCESTARTSHERE|NNP Horn|NNP is|VBZ the|DT most|RBS misused|VBN thing|NN india|NNS after|IN religion|NN .|. 
+SENTENCESTARTSHERE|NNP you|PRP ca|MD n't|RB kill|VB a|DT ship|NN that|WDT never|RB lived|VBD ,|, Destiny|NNP ...|: 
+SENTENCESTARTSHERE|NNP For|NNP in|IN the|DT of|IN 
+SENTENCESTARTSHERE|NNP 4|CD I|PRP ca|MD n't|RB Be|VB always|RB takes|VBZ to|TO much|JJ to|TO keep|VB up|RP my|PRP$ level|NN of|IN ☆|NNP …|NNP 
+SENTENCESTARTSHERE|NNP Amid|NNP all|DT softness|NN ,|, this|DT smile|NN perpetuates|VBZ pain|NN only|RB ...|: !|. 
+SENTENCESTARTSHERE|NNP VOTE|NNP HILLARY|NNP !|. ``|`` ''|'' A|DT candidate|NN with|IN flexibility|NN ``|`` ''|'' 
+SENTENCESTARTSHERE|NNP Up|NNP to|TO number|NN 62|CD .|. Wow|NNP that|IN 's|POS massive|JJ .|. 
+SENTENCESTARTSHERE|NNP says|VBZ the|DT guy|NN harassing|VBG people|NNS on|IN Twitter|NNP .|. 
+SENTENCESTARTSHERE|NNP Oh|NNP !|. ,|, for|IN want|JJ of|IN space|NN I|PRP cudnt|VBP add|JJ in|IN that|DT tweet|NN 
+SENTENCESTARTSHERE|NNP VOTE|NNP HILLARY|NNP !|. ``|`` ''|'' A|DT candidate|NN with|IN flexibility|NN ``|`` ''|'' 
+SENTENCESTARTSHERE|NNP These|NNP days|NNS Social|NNP Media|NNP is|VBZ all|DT about|IN whom|WP I|PRP 'm|VBP following|VBG .|. Nothing|NN about|IN what|WP am|NN I|PRP following|VBG for|IN exactly|RB .|. 
+SENTENCESTARTSHERE|NNP Sad|NNP to|TO hear|VB poppy|JJ memorial|JJ to|TO Mametz|NNP fallen|NN has|VBZ been|VBN vandalised|VBN .|. People|NNP died|VBD then|RB so|RB people|NNS could|MD vandalise|VB now|RB 
+SENTENCESTARTSHERE|NNP The|NNP product|NN that|WDT kills|VBZ ,|, will|MD now|RB be|VB the|DT one|CD who|WP saves|NNS from|IN itself|PRP !|. 
+SENTENCESTARTSHERE|NNP Awesome|NNP .|. ?|. ?|. ?|. ?|. ?|. ?|. ?|. ?|. ?|. ?|. ?|. ?|. Great|NNP update|NN !|. ?|. ?|. ?|. ?|. ?|. ?|. ?|. ?|. 
+SENTENCESTARTSHERE|NNP That|NNP 's|POS called|VBN Democracy|NNP !|. 
+SENTENCESTARTSHERE|NNP Alanis|NNP Morissette|NNP Updates|NNP '|POS Ironic|NNP '|POS Lyrics|NNP …|NNP 
+SENTENCESTARTSHERE|NNP I|NNP also|RB happen|VB to|TO have|VB a|DT Snow|NNP Dragon|NNP named|VBD Jill|NNP .|. 
+SENTENCESTARTSHERE|NNP Let|NNP me|PRP just|RB say|VBP it|PRP is|VBZ so|RB comfortable|JJ to|TO sleep|VB upright|NN with|IN an|DT arm|NN sling|VBG on|IN .|. So|RB comfortable|JJ 
+SENTENCESTARTSHERE|NNP she|PRP had|VBD a|DT nice|JJ attitude|NN at|IN the|DT dinner|NN table|NN ,|, super|NN friendly|RB 
+SENTENCESTARTSHERE|NNP Alanis|NNP Morissette|NNP Updates|NNP '|POS Ironic|NNP '|POS Lyrics|NNP …|NNP 
+SENTENCESTARTSHERE|NNP did|VBD you|PRP guys|VBZ catch|NN the|DT sarcasm|NN in|IN that|DT tweet|NN or|CC should|MD I|PRP start|VB hashtagging|VBG when|WRB I|PRP 'm|VBP using|VBG it|PRP ?|. 
+SENTENCESTARTSHERE|NNP Naw|NNP really|RB ?|. ?|. 
+SENTENCESTARTSHERE|NNP Naw|NNP really|RB ?|. ?|. 
+SENTENCESTARTSHERE|NNP Despite|NNP its|PRP$ bad|JJ reputation|NN of|IN “hostility|NN disguised|VBN as|IN humour”|JJ ,|, can|MD actually|RB be|VB for|IN you|PRP and|CC your|PRP$ firm|NN .|. …|NN 
+SENTENCESTARTSHERE|NNP lol|NN at|IN bad|JJ coverage|NN in|IN the|DT heart|NN of|IN the|DT tech|NN world|NN .|. 
+SENTENCESTARTSHERE|NNP worse|NN is|VBZ coverage|NN in|IN the|DT poshest|NN neighborhoods|NNS west|VBP of|IN 280|CD -|: where|WRB most|RBS of|IN the|DT money|NN in|IN SV|NNP liv…|NNP 
+SENTENCESTARTSHERE|NNP how|WRB someone|NN criticise|NN a|DT lot|NN and|CC is|VBZ also|RB earning|VBG name|NN fame|NN and|CC wealth|NN on|IN his|PRP$ name|NN ...|: 
+SENTENCESTARTSHERE|NNP ANZ|NNP crowds|VBZ are|VBP always|RB great|JJ .|. 
+SENTENCESTARTSHERE|NNP Hurdle|NNP would|MD know|VB intent|NN considering|VBG his|PRP$ team|NN has|VBZ led|VBN MLB|NNP the|DT last|JJ 3|CD seasons|NNS in|IN hitting|VBG the|DT opposing|VBG teams|NNS '|POS players|NNS .|. 
+SENTENCESTARTSHERE|NNP Is|NNP n't|RB a|DT above|JJ a|DT at|IN the|DT 
+SENTENCESTARTSHERE|NNP No|NNP Sweat|NNP Pants|NNP Allowed|NNP -|: Wine|NNP Club|NNP !|. …|: …|: …|: ?|. ?|. 
+SENTENCESTARTSHERE|NNP Despite|NNP its|PRP$ bad|JJ reputation|NN of|IN “hostility|NN disguised|VBN as|IN humour”|JJ ,|, can|MD actually|RB be|VB for|IN you|PRP and|CC your|PRP$ firm|NN .|. 
+SENTENCESTARTSHERE|NNP Aaah|NNP But|CC its|PRP$ a|DT Liberal|NNP Government|NNP Sooooo|NNP Its|NNP ok|NN then|RB Right|RB ?|. ?|. ?|. ?|. ?|. ?|. 
+SENTENCESTARTSHERE|NNP thank|NN u|NN complex|NN insta|NN account|NN for|IN spoiling|NN all|DT of|IN the|DT best|JJS parts|NNS of|IN drakes|NNS snl|VBP performance|NN tn|NN 
+SENTENCESTARTSHERE|NNP When|NNP I|NNP visit|NN foreign|JJ sites|NNS ,|, they|PRP seem|VBP to|TO push|VB news|NN about|IN the|DT USA|NNP .|. I|PRP go|VBP to|TO foreign|JJ new|JJ sites|NNS for|IN news|NN about|IN their|PRP$ country|NN .|. 
+SENTENCESTARTSHERE|NNP They|NNP must|MD be|VB paying|VBG their|PRP$ employees|NNS very|RB well|RB .|. 
+SENTENCESTARTSHERE|NNP I|PRP 'm|VBP way|NN too|RB attractive|JJ to|TO be|VB this|DT lonely|RB 
+SENTENCESTARTSHERE|NNP I|PRP love|VBP getting|VBG phone|NN calls|NNS after|IN work|NN to|TO come|VB DD|NNP ?|. ?|. ?|. ?|. 
+SENTENCESTARTSHERE|NNP The|NNP beauty|NN of|IN the|DT free|JJ press|NN in|IN a|DT liberal|NN democracy|NN is|VBZ that|IN no|DT one|NN in|IN the|DT corridors|NNS of|IN power|NN pays|NNS any|DT attention|NN to|TO it|PRP .|. …|: 
+SENTENCESTARTSHERE|NNP worse|NN is|VBZ coverage|NN in|IN the|DT poshest|NN neighborhoods|NNS west|VBP of|IN 280|CD -|: where|WRB most|RBS of|IN the|DT money|NN in|IN SV|NNP lives|NNS ...|: 
+SENTENCESTARTSHERE|NNP lol|NN at|IN bad|JJ coverage|NN in|IN the|DT heart|NN of|IN the|DT tech|NN world|NN .|. 
+SENTENCESTARTSHERE|NNP yeh|NN cos|NNS that|WDT 's|VBZ a|DT very|RB important|JJ piece|NN of|IN history|NN you|PRP have|VB there|EX lad|VBN 
+SENTENCESTARTSHERE|NNP The|NNP Bible|NNP clearly|RB forbids|VBZ tattoos|NNS ,|, but|CC Christians|NNP are|VBP walking|VBG around|IN with|IN tatted|JJ Bible|JJ quotes|NNS .|. 
+SENTENCESTARTSHERE|NNP OMG|NNP ,|, you|PRP 're|VBP having|VBG your|PRP$ period|NN ?|. I|PRP 'm|VBP so|RB JEALOUS|JJ !|. 
+SENTENCESTARTSHERE|NNP Have|NNP you|PRP ever|RB noticed|VBN that|IN most|JJS of|IN the|DT public|NN figures|NNS that|WDT speak|NN out|RP against|IN Guns|NNP have|VBP their|PRP$ own|JJ armed|VBN bodyguards|NNS ?|. 
+SENTENCESTARTSHERE|NNP thanks|VBZ for|IN making|VBG post|NN fight|NN intvw|NN full|JJ of|IN softball|NN q|NN ,|, I|PRP see|VBP how|WRB bad|JJ was4|NNP u|NN both|DT until|IN now|RB 
+SENTENCESTARTSHERE|NNP When|NNP I|NNP was|VBD typing|VBG my|PRP$ last|JJ tweet|NN I|PRP found|VBD .|. Which|NNP I|PRP was|VBD like|IN eww|NN until|IN I|PRP realized|VBD millennials|NNS was|VBD misspelled|VBN .|. 
+SENTENCESTARTSHERE|NNP ?|. ?|. ?|. ?|. ?|. ?|. Great|NNP Job|NNP Dejen|NNP de|IN quitar|NN series|NNS ...|: 
+SENTENCESTARTSHERE|NNP If|NNP Bernie|NNP can|MD register|VB as|RB Dem|NNP to|TO run|VB ,|, his|PRP$ '|'' delegates|VBZ '|POS should|MD follow|VB their|PRP$ '|'' leader|NN '|'' and|CC register|NN as|IN Dems|NNP ,|, too|RB .|. 
+SENTENCESTARTSHERE|NNP DEAD|NNP !|. 
+SENTENCESTARTSHERE|NNP If|NNP you|PRP have|VBP ever|RB been|VBN skydiving|VBG ,|, you|PRP must|MD be|VB a|DT very|RB dull|JJ person|NN !|. 
+SENTENCESTARTSHERE|NNP why|WRB the|DT faucet|NN when|WRB you|PRP could|MD just|RB mute|VB 
+SENTENCESTARTSHERE|NNP Bid|NNP to|TO ban|VB applause|NN in|IN B.C|JJ .|. legislature|NN rejected|VBD with|IN ovation|NN via|IN ...|: 
+SENTENCESTARTSHERE|NNP Funny|NNP fracking|NN coffee|NN mug|NN ,|, what|WP the|DT frack|NN mug|NN ,|, geekery|NN ,|, gifts|NNS under|IN 20|CD ,|, sci…|JJ 
+SENTENCESTARTSHERE|NNP um|NN ,|, I|PRP understand|VBP saving|VBG $|$ on|IN packaging|NN ,|, but|CC now|RB I|PRP have|VBP to|TO buy|VB a|DT cutting|NN board|NN and|CC plates|VBZ .|. Thanks|NNS a|DT lot|NN .|. 
+SENTENCESTARTSHERE|NNP LOL|NNP Via|NNP .|. 
+SENTENCESTARTSHERE|NNP LOL|NNP Via|NNP .|. 
+SENTENCESTARTSHERE|NNP if|IN you|PRP have|VBP already|RB encountered|VBN someone|NN today|NN that|WDT does|VBZ n't|RB understand|VB your|PRP$ htt…|NN 
+SENTENCESTARTSHERE|NNP So|NNP in|IN a|DT world|NN where|WRB kids|NNS see|VBP porn|NN on|IN their|PRP$ phone|NN ,|, parents|NNS say|VBP school|NN ca|MD n't|RB use|VB '|'' penis|NNS '|POS &|CC '|POS vagina|NN '|'' in|IN sex|NN ed|VBD 
+SENTENCESTARTSHERE|NNP It|NNP 's|POS said|VBD that|IN is|VBZ the|DT lowest|JJS form|NN of|IN .|. To|TO that|DT I|PRP say|VBP No|DT ,|, really|RB ?|. Hey|NNP ,|, somebody|NN give|VBP this|DT person|NN a|DT !|. 
+SENTENCESTARTSHERE|NNP This|NNP is|VBZ fault|NN too|RB .|. 
+SENTENCESTARTSHERE|NNP Really|NNP pissed|VBD ...|: ?|. ?|. Great|NNP now|RB play|VBP more|JJR episodes|NNS of|IN teen|JJ mom|NN and|CC catfish|JJ those|DT shows|NNS are|VBP sooo|RB good|JJ ...|: 
+SENTENCESTARTSHERE|NNP Why|NNP is|VBZ it|PRP that|IN all|DT the|DT Say|NNP No|NNP to|TO Drugs|NNP PSAs|NNP are|VBP so|RB much|RB cooler|JJR when|WRB you|PRP 're|VBP on|IN drugs|NNS ?|. 
+SENTENCESTARTSHERE|NNP Me|NNP *|-NONE- is|VBZ atheist|VBN *|-NONE- Also|RB me|PRP *|-NONE- writes|VBZ about|IN a|DT religious|JJ person|NN *|-NONE- 
+SENTENCESTARTSHERE|VB Love|NNP it|PRP 
+SENTENCESTARTSHERE|NNP all|DT the|DT random|NN people|NNS know|VBP you|PRP more|JJR than|IN you|PRP know|VBP yourself|PRP ?|. ?|. must|MD be|VB the|DT greatest|JJS 
+SENTENCESTARTSHERE|NNP Practice|NNP round|NN 
+SENTENCESTARTSHERE|NNP So|NNP in|IN a|DT world|NN where|WRB kids|NNS see|VBP porn|NN on|IN their|PRP$ phone|NN ,|, parents|NNS say|VBP school|NN ca|MD n't|RB use|VB '|'' penis|NNS '|POS &|CC '|POS vagina|NN '|'' in|IN sex|NN ed|VBD 
+SENTENCESTARTSHERE|NNP Spent|NNP some|DT time|NN talking|VBG to|TO a|DT friend|NN earlier|RBR about|IN the|DT pitfalls|NNS of|IN overthinking|VBG .|. Then|RB spent|VBD a|DT good|JJ part|NN of|IN the|DT day|NN thinking|VBG about|IN it|PRP .|. 
+SENTENCESTARTSHERE|NNP -|: Real|NNP are|VBP living|VBG in|IN old|JJ age|NN home|NN and|CC FAKE|NNP gandhis|DT are|VBP enjoying|VBG luxury|NN of|IN 10|CD Janpath|NNP ...|: .|. 
+SENTENCESTARTSHERE|NNP Trump|NNP making|VBG this|DT Mexican|NNP right|RB here|RB tons|NNS of|IN money|NN :|: )|: …|: 
+SENTENCESTARTSHERE|NNP Why|NNP is|VBZ it|PRP that|IN all|DT the|DT Say|NNP No|NNP to|TO Drugs|NNP PSAs|NNP are|VBP so|RB much|RB cooler|JJR when|WRB you|PRP 're|VBP on|IN drugs|NNS ?|. 
+SENTENCESTARTSHERE|NNP Im|NNP quitting|NN school|NN to|TO achieve|VB my|PRP$ life-long|JJ dream|NN of|IN becoming|VBG a|DT stripper|NN !|. No|DT more|RBR homework|NN or|CC debt|NN !|. 
+SENTENCESTARTSHERE|NNP That|NNP 's|POS 4|CD consecutive|JJ songs|NNS the|DT DJ|NNP 's|POS played|VBN at|IN the|DT dance|NN ,|, too|RB popular|JJ for|IN me|PRP to|TO know|VB them|PRP .|. Rather|RB hear|JJ .|. 
+SENTENCESTARTSHERE|NNP Alanis|NNP Morissette|NNP Updates|NNP '|POS Ironic|NNP '|POS Lyrics|NNP …|NNP 
+SENTENCESTARTSHERE|NNP did|VBD you|PRP guys|VBZ catch|NN the|DT sarcasm|NN in|IN that|DT tweet|NN or|CC should|MD I|PRP start|VB hashtagging|VBG when|WRB I|PRP 'm|VBP using|VBG it|PRP ?|. 
+SENTENCESTARTSHERE|NNP Looks|NNP like|IN &|CC had|VBD another|DT stellar|JJ game|NN !|. Thanks|NNS for|IN letting|VBG me|PRP watch|VBP !|. 
+SENTENCESTARTSHERE|NNP I|PRP 'm|VBP sorry|JJ ,|, i|PRP didnt|VBP know|RB that|IN a|DT stained|JJ coin|NN is|VBZ not|RB a|DT legal|JJ tender|NN here|RB in|IN Singapore|NNP 
+SENTENCESTARTSHERE|NNP Love|NNP how|WRB fighters|NNS show|VBP immediate|JJ concern|NN for|IN their|PRP$ downed|VBN opponents|NNS instead|RB of|IN acting|VBG like|IN fools|NNS .|. 
+SENTENCESTARTSHERE|NNP is|VBZ on|IN the|DT same|JJ night|NN a|DT guy|NN from|IN Cleveland|NNP wins|NNS the|DT heavyweight|NN belt|VBD .|. 
+SENTENCESTARTSHERE|NNP If|NNP Bernie|NNP can|MD register|VB as|RB Dem|NNP to|TO run|VB ,|, his|PRP$ '|'' delegates|VBZ '|POS should|MD follow|VB their|PRP$ '|'' leader|NN '|'' and|CC register|NN as|IN Dems|NNP ,|, too|RB .|. 
+SENTENCESTARTSHERE|NNP I|PRP 'm|VBP sorry|JJ ,|, i|PRP didnt|VBP know|RB that|IN a|DT stained|JJ coin|NN is|VBZ not|RB a|DT legal|JJ tender|NN here|RB in|IN Singapore|NNP 
+SENTENCESTARTSHERE|NNP Parking|NNP a|DT super|NN lifted|VBN F-250|-NONE- in|IN a|DT handicapped|JJ spot|NN is|VBZ the|DT definition|NN of|IN 
+SENTENCESTARTSHERE|NNP If|NNP Bernie|NNP can|MD register|VB as|RB Dem|NNP to|TO run|VB ,|, his|PRP$ '|'' delegates|VBZ '|POS should|MD follow|VB their|PRP$ '|'' leader|NN '|'' and|CC register|NN as|IN Dems|NNP ,|, too|RB .|. 
+SENTENCESTARTSHERE|NNP me|PRP too|RB paris|VBZ ,|, me|PRP too|RB .|. Men|NNS who|WP think|VBP they|PRP 're|VBP wimen|NNS affecting|VBG women|NNS 's|POS lives|NNS every|DT single|JJ day|NN .|. Diminishing|NNP woman|NN .|. …|NN 
+SENTENCESTARTSHERE|RB Morning|NNP of|IN regrets|NNS ..|: 
+SENTENCESTARTSHERE|NNP So|NNP enjoying|NN being|VBG wide|JJ awake|NN at|IN 5am|CD .|. ?|. 
+SENTENCESTARTSHERE|NNP no|DT ,|, I|PRP lurrrrrv|VBP it|PRP ,|, right|RB up|IN there|EX w/|JJ 
+SENTENCESTARTSHERE|NNP You|NNP know|VBP what|WP the|DT loveliest|JJS sound|NN is|VBZ in|IN silence|NN ?|. Hearing|NNP parents|NNS farting|VBG from|IN upstairs|NNS ...|: (|: i|PRP feel|VBP kinda|NN immature|NN for|IN laughing|NN ?|. ?|. ?|. ?|. )|: 
+SENTENCESTARTSHERE|NNP Sounds|NNPS like|IN the|DT Crows|NNP around|IN here|RB ..|: Ha|NNP !|. ?|. ?|. 
+SENTENCESTARTSHERE|NNP .|. online|NN payment|NN system|NN is|VBZ down|IN ,|, so|RB I|PRP ca|MD n't|RB pay|VB my|PRP$ Internet|NNP bill|NN .|. What|WP 's|VBZ the|DT deal|NN ?|. 
+SENTENCESTARTSHERE|NNP so|RB why|WRB is|VBZ n't|RB the|DT MLS|NNP taken|NN seriously|RB globally|RB ?|. 
+SENTENCESTARTSHERE|NNP That|NNP Margarita|NNP though|IN !|. ?|. ?|. ?|. ?|. 
+SENTENCESTARTSHERE|NNP Yeah|NNP ,|, mass|NN murderer|NN Modi|NNP had|VBD personally|RB seen|VBN every|DT riot|NN victim|NN and|CC injured|VBD /|CD killed|VBN them|PRP .|. 
+SENTENCESTARTSHERE|NNP A|DT white|JJ GAY|NNP conservative|JJ ,|, HIV|NNP +|NNP ...|: and|CC a|DT RACIST|NNP ?|. ?|. ?|. ?|. 
+SENTENCESTARTSHERE|NNP Do|NNP n't|RB send|VB me|PRP a|DT pic|JJ ,|, do|VBP n't|RB text|VB me|PRP when|WRB you|PRP have|VBP my|PRP$ and|CC do|VB n't|RB tell|VB me|PRP your|PRP$ real|JJ age|NN that|WDT is|VBZ the|DT way|NN to|TO win|VB my|PRP$ heart|NN 
+SENTENCESTARTSHERE|NNP To|TO make|VB America|NNP great|JJ again|NN !|. 
+SENTENCESTARTSHERE|NNP Sure|NNP ,|, let|VB 's|POS talk|NN about|IN how|WRB I|PRP do|VBP n't|RB have|VB one|CD these|DT days|NNS since|IN I|PRP 'm|VBP such|JJ a|DT whiner|NN apparently|RB :|: P|NNP 
+SENTENCESTARTSHERE|NNP Yeah|NNP ,|, mass|NN murderer|NN Modi|NNP had|VBD personally|RB seen|VBN every|DT riot|NN victim|NN and|CC injured|VBD /|CD killed|VBN them|PRP .|. 
+SENTENCESTARTSHERE|NNP that|IN was|VBD surprising|JJ lol|NN 
+SENTENCESTARTSHERE|NNP If|NNP you|PRP missed|VBD it|PRP ..|: see|VB you|PRP next…|-NONE- 
+SENTENCESTARTSHERE|NNP Yeah|NNP ,|, mass|NN murderer|NN Modi|NNP had|VBD personally|RB seen|VBN every|DT riot|NN victim|NN and|CC injured|VBD /|CD killed|VBN them|PRP .|. 
+SENTENCESTARTSHERE|NNP Ties|NNPS .|. The|DT most|RBS riveting|VBG final|JJ in|IN sports|NNS .|. 
+SENTENCESTARTSHERE|NNP Found|NNP this|DT shirt|NN ,|, where|WRB else|RB than|IN the|DT Thrift|NNP Shop|NNP !|. 
+SENTENCESTARTSHERE|NNP The|NNP movie|NN is|VBZ about|IN a|DT guy|NN in|IN a|DT wheelchair|NN who|WP pushes|VBZ everyone|NN away|RB 
+SENTENCESTARTSHERE|NNP yeah|NN .|. Massive|JJ issue|NN that|WDT cuts|VBZ to|TO the|DT heart|NN of|IN what|WP Australians|NNS care|VBP about|IN .|. 
+SENTENCESTARTSHERE|NNP No|NNP Sweat|NNP Pants|NNP Allowed|NNP -|: Wine|NNP Club|NNP !|. …|: …|: …|: ?|. ?|. 
+SENTENCESTARTSHERE|NNP I|PRP stopped|VBD fighting|VBG my|PRP$ inner|NN demons|NNS .|. We|PRP 're|VBP on|IN the|DT same|JJ side|NN now|RB .|. 
+SENTENCESTARTSHERE|NNP Quality|NNP movies|NNS on|IN HBO|NNP Now|NNP .|. 
+SENTENCESTARTSHERE|NNP People|NNP around|IN me|PRP are|VBP smarter|RB and|CC more|JJR creative|JJ ...|: at|IN trying|VBG to|TO escape|NN my|PRP$ presence|NN .|. ?|. 
+SENTENCESTARTSHERE|NNP Have|NNP you|PRP ever|RB noticed|VBN that|IN most|JJS of|IN the|DT public|NN figures|NNS that|WDT speak|NN out|RP against|IN Guns|NNP have|VBP their|PRP$ own|JJ armed|VBN bodyguards|NNS ?|. 
+SENTENCESTARTSHERE|NNP I|NNP just|RB love|VBP this|DT bull|NN pen|NN Shapiro|NNP brought|VBD in|IN to|TO help|VB the|DT team|NN .|. I|PRP guess|VBP Price|NNP was|VBD n't|RB worth|JJ all|DT that|DT since|IN Boston|NNP is|VBZ killing|VBG it|PRP 
+SENTENCESTARTSHERE|NNP I|PRP sense|VBP a|DT tone|NN of|IN 
+SENTENCESTARTSHERE|NNP ?|. ?|. ?|. ?|. throwing|VBG up|RP is|VBZ so|RB much|RB fun|VBN 
+SENTENCESTARTSHERE|NNP Drinking|NNP rum|NN while|IN writing|VBG .|. This|DT can|MD ONLY|RB end|VB well|RB .|. 
+SENTENCESTARTSHERE|NNP Overheard|NNP tonight|VBD I|PRP just|RB talk|VBP to|TO bitches|NNS how|WRB they|PRP wan|VBP na|NNS be|VB talked|VBN to|TO .|. 
+SENTENCESTARTSHERE|NNP I|PRP 'm|VBP glad|JJ God|NNP is|VBZ a|DT God|NNP of|IN blessings|NNS and|CC not|RB accountability|NN ...|: shew|NN ,|, we|PRP 'd|MD be|VB in|IN trouble|NN then|RB .|. ?|. ?|. 
+SENTENCESTARTSHERE|NNP Overhead|NNP tonight|VBD I|PRP just|RB talk|VBP to|TO bitches|NNS how|WRB they|PRP wan|VBP na|NNS be|VB talked|VBN to|TO .|. 
+SENTENCESTARTSHERE|NNP It|NNP takes|VBZ sadness|NN to|TO know|VB what|WP happiness|NN is|VBZ ,|, noise|RB to|TO appreciate|VB silence|NN ,|, and|CC absence|NN to|TO value|NN presence|NN .|. Life|NNP is|VBZ 
+SENTENCESTARTSHERE|NNP Overhead|NNP tonight|VBD I|PRP just|RB talk|VBP to|TO bitches|NNS how|WRB they|PRP wan|VBP na|NNS be|VB talked|VBN to|TO .|. 
+SENTENCESTARTSHERE|NNP This|NNP is|VBZ super|JJR awesome|NN .|. 
+SENTENCESTARTSHERE|NNP It|NNP takes|VBZ sadness|NN to|TO know|VB what|WP happiness|NN is|VBZ ,|, noise|RB to|TO appreciate|VB silence|NN ,|, and|CC absence|NN to|TO value|NN presence|NN .|. Life|NNP is|VBZ 
+SENTENCESTARTSHERE|NNP Because|NNP who|WP does|VBZ n't|RB love|VB a|DT bit|NN of|IN 
+SENTENCESTARTSHERE|NNP SJK|NNP is|VBZ a|DT very|RB loyal|JJ friend|NN ,|, took|VBD he|PRP time|NN to|TO come|VB to|TO shk|VB stylist|NN party|NN ,|, when|WRB he|PRP had|VBD come|VBN from|IN thai|NN and|CC in|IN morning|NN had|VBD to|TO g…|NNP 
+SENTENCESTARTSHERE|NNP If|NNP I|NNP SJK|NNP ,|, I|PRP will|MD not|RB come|VB to|TO party|NN ,|, if|IN not|RB to|TO meet|VB a|DT important|JJ person|NN ,|, i|PRP prefer|VBP sleep|JJ coz|NN of|IN the|DT hectic|JJ schedule|NN will|MD drain…|VB 
+SENTENCESTARTSHERE|NNP It|NNP takes|VBZ sadness|NN to|TO know|VB what|WP happiness|NN is|VBZ ,|, noise|RB to|TO appreciate|VB silence|NN ,|, and|CC absence|NN to|TO value|NN presence|NN .|. Life|NNP is|VBZ 
+SENTENCESTARTSHERE|NNP Yay|NNP ,|, more|JJR free|JJ baseball|NN .|. 
+SENTENCESTARTSHERE|NNP did|VBD you|PRP guys|VBZ catch|NN the|DT sarcasm|NN in|IN that|DT tweet|NN or|CC should|MD I|PRP start|VB hashtagging|VBG when|WRB I|PRP 'm|VBP using|VBG it|PRP ?|. 
+SENTENCESTARTSHERE|NNP Dai|NNP Alanye|NNP books|VBZ You|PRP can|MD expect|VB adventure|NN and|CC and|CC 
+SENTENCESTARTSHERE|NNP Alanis|NNP Morissette|NNP Updated|NNP ‘Ironic’|NNP For|NNP Today’s|NNP Problems|NNP And|CC it’s|NNP Hilarious|NNP 
+SENTENCESTARTSHERE|NNP …and|NNP followed|VBD closely|RB by|IN an|DT unsolicited|JJ one|CD from|IN AJM|NNP .|. What|WP a|DT surprise|NN .|. 
+SENTENCESTARTSHERE|NNP wow|NN ,|, with|IN something|NN that|IN amazing|VBG ,|, you|PRP 'd|MD think|VB there|RB would|MD n't|RB be|VB any|DT empty|NN seats|NNS .|. 
+SENTENCESTARTSHERE|NNP Have|NNP you|PRP ever|RB noticed|VBN that|IN most|JJS of|IN the|DT public|NN figures|NNS that|WDT speak|NN out|RP against|IN Guns|NNP have|VBP their|PRP$ own|JJ armed|VBN bodyguards|NNS ?|. 
+SENTENCESTARTSHERE|NNP the|DT amount|NN is|VBZ incorrect|NN according|VBG to|TO my|PRP$ google|NN search|NN .|. 
+SENTENCESTARTSHERE|NNP Have|NNP you|PRP ever|RB noticed|VBN that|IN most|JJS of|IN the|DT public|NN figures|NNS that|WDT speak|NN out|RP against|IN Guns|NNP have|VBP their|PRP$ own|JJ armed|VBN bodyguards|NNS ?|. 
+SENTENCESTARTSHERE|NNP So|NNP in|IN a|DT world|NN where|WRB kids|NNS see|VBP porn|NN on|IN their|PRP$ phone|NN ,|, parents|NNS say|VBP school|NN ca|MD n't|RB use|VB '|'' penis|NNS '|POS &|CC '|POS vagina|NN '|'' in|IN sex|NN ed|VBD 
+SENTENCESTARTSHERE|NNP Re-posting|JJ my|PRP$ dreaming|NN frog|NN ?|. ?|. ?|. ?|. 
+SENTENCESTARTSHERE|NNP So|NNP in|IN a|DT world|NN where|WRB kids|NNS see|VBP porn|NN on|IN their|PRP$ phone|NN ,|, parents|NNS say|VBP school|NN ca|MD n't|RB use|VB '|'' penis|NNS '|POS &|CC '|POS vagina|NN '|'' in|IN sex|NN ed|VBD 
+SENTENCESTARTSHERE|NNP Re-posting|JJ my|PRP$ dreaming|NN frog|NN ?|. ?|. ?|. ?|. 
+SENTENCESTARTSHERE|NNP I|PRP ca|MD n't|RB wait|VB until|IN I|PRP 'm|VBP dragging|VBG my|PRP$ teenagers|NNS to|TO an|DT Alanis|NNP Morissette|NNP cover|NN band|NN .|. 
+SENTENCESTARTSHERE|NNP So|NNP in|IN a|DT world|NN where|WRB kids|NNS see|VBP porn|NN on|IN their|PRP$ phone|NN ,|, parents|NNS say|VBP school|NN ca|MD n't|RB use|VB '|'' penis|NNS '|POS &|CC '|POS vagina|NN '|'' in|IN sex|NN ed|VBD 
+SENTENCESTARTSHERE|NNP Dai|NNP Alanye|NNP books|VBZ You|PRP can|MD expect|VB adventure|NN and|CC and|CC 
+SENTENCESTARTSHERE|NNP I|NNP gave|VBD out|RP ear|JJ plugs|NNS because|IN I|PRP was|VBD paranoid|JJ I|PRP might|MD snore|VB &|CC then|RB I|PRP 'm|VBP the|DT one|CD laying|VBG here|RB listening|VBG to|TO someone|NN snore|NN away|RB ...|: 
+SENTENCESTARTSHERE|NNP This|NNP is|VBZ fault|NN too|RB .|. 
+SENTENCESTARTSHERE|NNP whales|NNS in|IN captivity|NN ,|, the|DT lynchpin|NN of|IN society|NN -|: 
+SENTENCESTARTSHERE|NNP The|NNP Ministry|NNP of|IN Peace|NNP ...|: which|WDT concerned|VBN itself|PRP with|IN war|NN ...|: 
+SENTENCESTARTSHERE|NNP Waiting|NNP to|TO See|NNP how|WRB ,|, this|DT .|. 
+SENTENCESTARTSHERE|NNP Yep|NNP ...|: was|VBD here|RB for|IN this|DT ...|: this|DT will|MD definitely|RB win|VB me|PRP over|IN to|TO the|DT Bernie|NNP side|NN .|. 
+SENTENCESTARTSHERE|NNP I|PRP hate|VBP gore|RB too|RB but|CC it|PRP 's|VBZ great|JJ 
+SENTENCESTARTSHERE|NNP Weirdo|NNP pendant|NN ,|, stay|NN weird|NN ,|, funny|JJ pendant|NN ,|, unique|JJ gifts|NNS ,|, silver|NN pen…|-NONE- 
+SENTENCESTARTSHERE|NNP Have|NNP you|PRP ever|RB noticed|VBN that|IN most|JJS of|IN the|DT public|NN figures|NNS that|WDT speak|NN out|RP against|IN Guns|NNP have|VBP their|PRP$ own|JJ armed|VBN bodyguards|NNS ?|. 
+SENTENCESTARTSHERE|NNP high-brow|NNP intellectual|JJ comedy|NN coming|VBG to|TO you|PRP tonight|MD from|IN this|DT classy|NN Twitter|NNP page|NN .|. :|: D|NNP 
+SENTENCESTARTSHERE|NNP Have|NNP you|PRP ever|RB noticed|VBN that|IN most|JJS of|IN the|DT public|NN figures|NNS that|WDT speak|NN out|RP against|IN Guns|NNP have|VBP their|PRP$ own|JJ armed|VBN bodyguards|NNS ?|. 
+SENTENCESTARTSHERE|NNP I|PRP love|VBP going|VBG all|DT day|NN without|IN any|DT texts|NNS ?|. ?|. ☺️|: 
+SENTENCESTARTSHERE|NNP did|VBD you|PRP guys|VBZ catch|NN the|DT sarcasm|NN in|IN that|DT tweet|NN or|CC should|MD I|PRP start|VB hashtagging|VBG when|WRB I|PRP 'm|VBP using|VBG it|PRP ?|. 
+SENTENCESTARTSHERE|NNP Three|NNP hours|NNS till|VBP I|PRP 'm|VBP in|IN heaven|NN !|. 
+SENTENCESTARTSHERE|NNP Millennials|NNP work|NN in|IN coffee|NN shops|NNS because|IN they|PRP ca|MD n't|RB afford|VB anything|NN there|RB .|. 
+SENTENCESTARTSHERE|NNP Alanis|NNP Morissette|NNP Updates|NNP '|POS Ironic|NNP '|POS Lyrics|NNP …|NNP 
+SENTENCESTARTSHERE|NNP Have|NNP you|PRP ever|RB noticed|VBN that|IN most|JJS of|IN the|DT public|NN figures|NNS that|WDT speak|NN out|RP against|IN Guns|NNP have|VBP their|PRP$ own|JJ armed|VBN bodyguards|NNS ?|. 
+SENTENCESTARTSHERE|NNP Went|NNP to|TO Ireland|NNP on|IN holiday|NN .|. Came|NNP home|NN to|TO Florida|NNP with|IN a|DT sunburn|NN .|. The|DT scratching|NN feels|VBZ so|RB good|JJ !|. 
+SENTENCESTARTSHERE|NNP This|NNP is|VBZ super|JJR awesome|NN .|. 
+SENTENCESTARTSHERE|NNP But|CC it|PRP was|VBD stolen|VBN from|IN Sanders|NNP !|. 
+SENTENCESTARTSHERE|NNP It|NNP 's|POS really|RB nice|JJ of|IN the|DT to|TO let|VB get|NN the|DT win|NN at|IN home|NN I|PRP front|VBP of|IN their|PRP$ fans|NNS .|. 
+SENTENCESTARTSHERE|NNP Honestly|NNP seeing|VBG the|DT I|PRP will|MD not|RB sink|VB anchor|NN tattoo|RB IRL|NNP will|MD forever|VB make|VB me|PRP laugh|IN .|. 
+SENTENCESTARTSHERE|NNP Have|NNP you|PRP ever|RB noticed|VBN that|IN most|JJS of|IN the|DT public|NN figures|NNS that|WDT speak|NN out|RP against|IN Guns|NNP have|VBP their|PRP$ own|JJ armed|VBN bodyguards|NNS ?|. 
+SENTENCESTARTSHERE|NNP At|NNP least|JJS Australia|NNP is|VBZ getting|VBG some|DT good|JJ pub|NN tonight|NN .|. Warwick|NNP for|IN Cy|NNP Young|NNP 
+SENTENCESTARTSHERE|NNP on|IN no|DT ,|, they|PRP have|VBP an|DT unarmed|VBN personnel|NN carrier|NN .|. How|WRB dare|JJ they|PRP !|. ?|. 
+SENTENCESTARTSHERE|NNP If|NNP only|RB you|PRP were|VBD as|IN sensitive|JJ about|IN tax|NN $|$ as|IN you|PRP are|VBP about|IN semantics|NNS .|. Like|IN perhaps|RB 3|CD China|NNP trips|NNS excessive|VBP .|. 
+SENTENCESTARTSHERE|NNP without|IN realizing|VBG that|IN DMK|NNP that|IN gave|VBD away|RB Katchtheevu|NNP Islands|NNPS to|TO Sri|NNP Lanka|NNP ,|, .|. promises|NNS to|TO retrieve|VB these|DT Islands…|JJ 
+SENTENCESTARTSHERE|NNP Yeah|NNP this|DT is|VBZ exciting|VBG !|. !|. !|. vs|NNS 
+SENTENCESTARTSHERE|NNP Dai|NNP Alanye|NNP books|VBZ You|PRP can|MD expect|VB adventure|NN and|CC and|CC 
+SENTENCESTARTSHERE|NNP Yes|NNP ,|, absolutely|RB .|. The|DT USSR|NNP is|VBZ exactly|RB the|DT same|JJ as|IN the|DT Russian|NNP federation|NN ,|, in|IN ideology|NN and|CC policy|NN .|. Lol|NNP 
+SENTENCESTARTSHERE|NNP If|NNP only|RB you|PRP were|VBD as|IN sensitive|JJ about|IN tax|NN $|$ as|IN you|PRP are|VBP about|IN semantics|NNS .|. Like|IN perhaps|RB 3|CD China|NNP trips|NNS excessive|VBP .|. 
+SENTENCESTARTSHERE|NNP if|IN you|PRP have|VBP already|RB encountered|VBN someone|NN today|NN that|WDT does|VBZ n't|RB understand|VB your|PRP$ htt…|NN 
+SENTENCESTARTSHERE|NNP What|NNP ?|. A|DT socialist|NN country|NN facing|VBG economic|JJ meltdown|NN ?|. Say|NNP it|PRP is|VBZ n't|RB so|RB !|. See|NNP USA|NNP if|IN Clinton|NNP wins|VBZ .|. 
+SENTENCESTARTSHERE|NNP Heh|NNP .|. Nope|NNP .|. Just|NNP got|VBD worse|NN .|. 
+SENTENCESTARTSHERE|NNP Wait|NNP ,|, you|PRP had|VBD WHAT|NNP ?|. ?|. You|PRP wore|VBP DREADS|NNS ?|. ?|. !|. !|. ?|. ?|. Call|NNP the|DT PC|NNP Police|NNP ,|, this|DT is|VBZ Cultural|NNP Appropriation|NNP !|. !|. !|. 
+SENTENCESTARTSHERE|NNP When|NNP we|PRP were|VBD 18|CD ,|, we|PRP would|MD beg|VB our|PRP$ friends|NNS to|TO go|VB out|RP .|. Now|RB ,|, we|PRP beg|VBP our|PRP$ friends|NNS to|TO stay|VB in|IN .|. 
+SENTENCESTARTSHERE|NNP I|PRP do|VBP love|RB a|DT good|JJ fire|NN and|CC brimstone|NN sermon|NN .|. No|DT better|JJR way|NN to|TO spend|VB a|DT Sunday|NNP morning|NN .|. 
+SENTENCESTARTSHERE|NNP Wow|NNP ,|, Benvolio|NNP failed|VBD to|TO mention|NN it|PRP was|VBD a|DT Capulet|NNP party|NN .|. 
+SENTENCESTARTSHERE|NNP I|PRP did|VBD the|DT Toronto|NNP series|NN last|JJ August|NNP .|. That|DT Encarnacion|NNP 3|CD homer|NN game|NN was|VBD just|RB beautiful|JJ !|. 
+SENTENCESTARTSHERE|NNP mmhm|NN yes|VBZ ,|, gender|NN stereotypes|NNS .|. Cmon|NNP everyone|NN ,|, lets|NNS perpetuate|VBP them|PRP !|. !|. !|. !|. !|. !|. !|. !|. 
+SENTENCESTARTSHERE|NNP When|NNP will|MD universities|NNS accomidate|VB species-inclusive|JJ identities|NNS ?|. 
+SENTENCESTARTSHERE|NNP Our|NNP secret|NN weapon|NN against|IN Golden|NNP State|NNP 
+SENTENCESTARTSHERE|NNP Hi|NNP Bri-Oh|NNP My|NNP ,|, Hopin|NNP I|PRP dont|VBP have|VBP 2|CD bring|VBG out|RP my|PRP$ spurs|NNS again|RB !|. Tho|NNP I|PRP think|VBP it|PRP was|VBD just|RB ,|, too|RB !|. 
+SENTENCESTARTSHERE|NNP It|NNP 's|POS really|RB sad|JJ to|TO see|VB how|WRB Elin|NNP Nordegren|NNP has|VBZ let|VBN herself|PRP go|VBP .|. (|: Via|NNP )|NNP 
+SENTENCESTARTSHERE|NNP My|NNP favorite|NN ...|: sarcasm|NN 
+SENTENCESTARTSHERE|NNP ready|NN for|IN my|PRP$ first|JJ blind|NN date|NN courtesy|NN of|IN the|DT '|POS rents|NNS ..|: 
+SENTENCESTARTSHERE|NNP You|NNP presume|NN that|WDT the|DT Obama|NNP daughters|NNS identify|VBP as|RB female|JJ .|. Sexist|NNP !|. Bigot|NNP !|. Bad|NNP person|NN you|PRP are|VBP !|. 
+SENTENCESTARTSHERE|NNP My|NNP favorite|NN part|NN of|IN May|NNP is|VBZ n't|RB about|RB finishing|VBG HS|NNS ,|, no|DT my|PRP$ favorite|JJ part|NN is|VBZ turning|VBG on|IN the|DT heat|NN ?|. ?|. ?|. ?|. 
+SENTENCESTARTSHERE|NNP Oh|NNP wow|NN ...|: a|DT Lifetime|NNP Movie|NNP husband|NN murdered|VBD his|PRP$ wife|NN .|. What|WP a|DT stunning|NN plot|NN twist|NN !|. 
+SENTENCESTARTSHERE|NNP If|NNP they|PRP nominate|VBP Hillary|NNP ,|, Lord|NNP help|NN us|PRP ,|, all|DT Trump|NNP has|VBZ to|TO do|VB is|VBZ promise|VB to|TO indict|VB her|PRP$ once|NN elected|VBN and|CC he|PRP 'll|MD win|VB in|IN a|DT landslide|NN !|. 
+SENTENCESTARTSHERE|NNP gun|NN humpers|NNS ?|. ?|. 
+SENTENCESTARTSHERE|NNP This|NNP is|VBZ fault|NN too|RB .|. 
+SENTENCESTARTSHERE|NNP Another|NNP MSM|NNP success|NN story|NN .|. ?|. ?|. ?|. ?|. Complete|NNP .|. Disagreement|NNP is|VBZ OK|NNP .|. Hate|NNP &|CC disrespect|VB are|VBP NOT|RB OK|NNP .|. 
+SENTENCESTARTSHERE|NNP I|PRP 'm|VBP sure|JJ the|DT good|JJ people|NNS of|IN North|NNP Carolina|NNP are|VBP absolutely|RB devastated|VBN .|. 
+SENTENCESTARTSHERE|VBP This|DT is|VBZ fault|NN too|RB .|. 
+SENTENCESTARTSHERE|NNP Cat|NNP necklace|NN ,|, octopussy|JJ ,|, funny|JJ necklace|NN ,|, cute|JJ jewelry|NN ,|, silver|NN pendant|NN ,|, sq…|NNP 
+SENTENCESTARTSHERE|NNP Land|NNP of|IN the|DT Free|NNP 
+SENTENCESTARTSHERE|NNP man|NN these|DT Brazilian|JJ judges|NNS do|VBP n't|RB favor|VB their|PRP$ countrymen|NNS at|IN all|DT 
+SENTENCESTARTSHERE|NNP Thanks|NNP for|IN sharing|VBG the|DT Frank|NNP story|NN related|VBD 2|CD the|DT last|JJ time|NN he|PRP sang|VBD My|NNP Way|NNP in|IN public|JJ .|. I|PRP had|VBD no|DT idea|NN .|. 
+SENTENCESTARTSHERE|NNP This|NNP is|VBZ fault|NN too|RB .|. 
+SENTENCESTARTSHERE|NNP I|PRP 'm|VBP stunned|JJ one|CD judge|NN gave|VBD Trinaldo|NNP a|DT 10-9|CD in|IN the|DT third|JJ frame|NN .|. 
+SENTENCESTARTSHERE|NNP I|PRP just|RB got|VBD ta|NN shirt|NN from|IN Giant|NNP that|IN says|VBZ hero|NN associate|NN ,|, but|CC submitted|VBD an|DT application|NN to|TO be|VB no|RB one|CD /faceless|JJ assassin|NN .|. 
+SENTENCESTARTSHERE|NNP These|NNP thunderstorms|NNS are|VBP crazy|JJ ...|: *|-NONE- 
+SENTENCESTARTSHERE|VB I|PRP resemble|JJ this|DT comment|NN ...|: ...|: .|. ?|. ?|. 
+SENTENCESTARTSHERE|NNP THE|NNP MUSLIM|NNP SACRIFICES|NNP TO|NNP SAVE|NNP WESTERN|NNP VALUES|NNP 
+SENTENCESTARTSHERE|NNP Really|NNP low|JJ random|NN plane|NN in|IN LA|NNP traffic|NN .|. Soooo|NNP expected|VBD .|. Not|RB !|. ?|. ?|. ?|. ?|. b…|NN 
+SENTENCESTARTSHERE|NNP Vote|NNP blue|JJ no|DT matter|NN who|WP am|NN I|PRP right|RB ?|. 
+SENTENCESTARTSHERE|NNP It|NNP was|VBD then|RB I|PRP was|VBD hit|VBN by|IN the|DT in|IN that|DT I|PRP cut|VBD 20|CD of|IN hair|NN off|IN two|CD months|NNS ago|RB .|. 
+SENTENCESTARTSHERE|NNP .|. Anger|NNP aims|VBZ at|IN restoring|VBG lost|VBN control|NN ...|: illusion|NN of|IN it|PRP cuz|VBP we|PRP lose|VBP control|NN when|WRB we|PRP get|VBP angry|JJ 
+SENTENCESTARTSHERE|NNP Vote|NNP blue|JJ no|DT matter|NN who|WP am|NN I|PRP right|RB ?|. 
+SENTENCESTARTSHERE|NNP Vote|NNP blue|JJ no|DT matter|NN who|WP am|NN I|PRP right|RB ?|. 
+SENTENCESTARTSHERE|NNP Gee|NNP ,|, that|IN could|MD n't|RB possibly|RB be|VB true|JJ ,|, because|IN liberal|JJ churches|NNS are|VBP dying|VBG .|. 
+SENTENCESTARTSHERE|NNP Exactly|NNP !|. According|VBG to|TO LNP|NNP its|PRP$ Labor|NNP that|IN spends|NNS !|. Could|MD be|VB wrong|JJ but|CC is|VBZ n't|RB WA|NNP a|DT LNP|NNP Gov|NNP !|. !|. 
+SENTENCESTARTSHERE|NNP Honestly|NNP seeing|VBG the|DT I|PRP will|MD not|RB sink|VB anchor|NN tattoo|RB IRL|NNP will|MD forever|VB make|VB me|PRP laugh|IN .|. 
+SENTENCESTARTSHERE|NNP Vote|NNP blue|JJ no|DT matter|NN who|WP am|NN I|PRP right|RB ?|. 
+SENTENCESTARTSHERE|NNP Spent|NNP 3|CD hours|NNS configuring|VBG a|DT headless|NN Crashplan|NNP install|NN on|IN my|PRP$ NAS|NNP to|TO backup|VB my|PRP$ data|NNS and|CC think|VBP I|PRP sporked|VBD my|PRP$ NAS|NNP in|IN the|DT process|NN .|. 
+SENTENCESTARTSHERE|NNP Honestly|NNP seeing|VBG the|DT I|PRP will|MD not|RB sink|VB anchor|NN tattoo|RB IRL|NNP will|MD forever|VB make|VB me|PRP laugh|IN .|. 
+SENTENCESTARTSHERE|NNP PS|NNP you|PRP are|VBP not|RB over|IN at|IN all|DT .|. Killer|NNP Khan|NNP was|VBD more|JJR over|IN than|IN you|PRP were|VBD .|. 
+SENTENCESTARTSHERE|NNP How|NNP to|TO treat|VB peach|JJ leaf|NN curl|NN disease|NN Buy|NNP a|DT resistant|JJ variety|NN .|. Well|NNP ,|, gee|VBP .|. How|WRB helpful|JJ you|PRP are|VBP !|. Thank|NNP you|PRP multiple|VBP websites|NNS !|. 
+SENTENCESTARTSHERE|NNP I|PRP love|VBP when|WRB my|PRP$ joints|NNS randomly|RB click/pop|JJ during|IN simple|JJ movements|NNS 
+SENTENCESTARTSHERE|NNP Not|NNP like|IN fire|NN ca|MD n't|RB be|VB in|IN water|NN !|. 
+SENTENCESTARTSHERE|NNP did|VBD you|PRP enjoy|VBP that|IN ?|. xD|NNP !|. !|. lol|NN (|: laugh|IN out|IN loud|NN )|: :|: p|NN 
+SENTENCESTARTSHERE|RB I|PRP just|RB ordered|VBN this|DT yesterday|NN .|. 
+SENTENCESTARTSHERE|NNP It|NNP 's|POS really|RB sad|JJ to|TO see|VB how|WRB Elin|NNP Nordegren|NNP has|VBZ let|VBN herself|PRP go|VBP .|. (|: Via|NNP )|NNP 
+SENTENCESTARTSHERE|NNP Migraine|NNP ,|, check|NN ,|, urge|NN to|TO hurl|VB ,|, check|NN ,|, babysitting|VBG for|IN at|IN least|JJS another|DT 45|CD minutes|NNS to|TO over|IN an|DT hour|NN ?|. Yay|NNP .|. 
+SENTENCESTARTSHERE|NNP Great|NNP quote|NN .|. Funny|NNP and|CC true|JJ !|. …|: 
+SENTENCESTARTSHERE|NNP Great|NNP quote|NN .|. Funny|NNP and|CC true|JJ !|. …|: 
+SENTENCESTARTSHERE|NNP Great|NNP quote|NN .|. Funny|NNP and|CC true|JJ !|. …|: 
+SENTENCESTARTSHERE|NNP Great|NNP quote|NN .|. Very|NNP true|JJ !|. …|: 
+SENTENCESTARTSHERE|NNP ‘Take|NNP it|PRP off|IN !|. This|DT is|VBZ America|NNP !|. ’|: Man|NNP who|WP yanked|VBD hijab|VBP .|. .|. Bill|NNP of|IN rights|NNS says|VBZ what|WP ?|. -|: The|DT Washington|NNP Post|NNP 
+SENTENCESTARTSHERE|NNP Great|NNP quote|NN .|. Harsh|NNP but|CC true|JJ !|. …|: 
+SENTENCESTARTSHERE|NNP Great|NNP quote|NN .|. Funny|NNP and|CC true|JJ !|. …|: 
+SENTENCESTARTSHERE|NNP Look|NNP at|IN these|DT hipster|NN chairs|NNS Jesse|NNP got|VBD for|IN her|PRP$ new|JJ apartment|NN !|. !|. !|. 
+SENTENCESTARTSHERE|NNP my|PRP$ way|NN with|IN words|NNS &|CC blumpkins|NNS .|. htt…|NN 
+SENTENCESTARTSHERE|NNP Rainy|NNP day|NN today|NN ,|, how|WRB fucking|VBG fabulous|JJ .|. I|PRP 'll|MD just|RB get|VB my|PRP$ umbrella|NN and|CC dance|NN in|IN the|DT rain|NN like|IN if|IN I|PRP were|VBD in|IN a|DT movie|NN .|. Oh|NNP how|WRB wonderful|JJ .|. 
+SENTENCESTARTSHERE|NNP Did|NNP n't|RB see|VB this|DT coming|VBG !|. !|. !|. 
+SENTENCESTARTSHERE|NNP Wong|NNP hits|VBZ two|CD triples|NNS and|CC ...|: Rides|NNP the|DT wood|NN next|IN game|NN .|. Establishing|NNP confidence|NN ...|: I|PRP like|VBP it|PRP .|. 
+SENTENCESTARTSHERE|NNP aww|NN shizzle|NN ,|, I|PRP forgot|VBD a|DT comma|NN to|TO break|VB it|PRP up|RP for|IN you|PRP !|. It|PRP should|MD 've|VB been|VBN sense|NN the|DT ,|, bitches|VBZ see|VB ,|, my|PRP$ bad|JJ education|NN smh|NN 
+SENTENCESTARTSHERE|NNP if|IN you|PRP have|VBP already|RB encountered|VBN someone|NN today|NN that|WDT does|VBZ n't|RB understand|VB your|PRP$ htt…|NN 
+SENTENCESTARTSHERE|VB She|PRP can|MD fly|RB but|CC still|RB ,|, she|PRP is|VBZ not|RB allowed|VBN to|TO drive|VB .|. 
+SENTENCESTARTSHERE|NNP your|PRP$ logo|NN is|VBZ really|RB cool|JJ 
+SENTENCESTARTSHERE|NNP Irony|NNP is|VBZ fun|VBN 
+SENTENCESTARTSHERE|NNP Children|NNP the|DT only|JJ ones|NNS who|WP 've|-NONE- ever|RB been|VBN able|JJ to|TO make|VB me|PRP feel|VB irresponsible|JJ 
+SENTENCESTARTSHERE|NNP I|PRP find|VBP it|PRP funny|JJ that|IN people|NNS called|VBN Buffy|NNP season|NN 6|CD too|RB dark|JJ back|NN in|IN the|DT day|NN ,|, while|IN nowadays|NNS we|PRP want|VBP everything|VBG to|TO be…|NNP 
+SENTENCESTARTSHERE|NNP The|NNP Iranian|NNP government|NN would|MD agree|VB with|IN that|DT ,|, change|VBP them|PRP from|IN Muslim|NNP to|TO Christian|NNP and|CC you|PRP love|VBP their|PRP$ style|NN of|IN governing|VBG 
+SENTENCESTARTSHERE|NNP Alanis|NNP Morissette|NNP Updates|NNP '|POS Ironic|NNP '|POS Lyrics|NNP …|NNP 
+SENTENCESTARTSHERE|RB Yay|NNP !|. We|PRP landed|VBD 45mins|CD early|JJ !|. !|. ……just|JJ to|TO sit|VB on|IN the|DT runway|NN for|IN 45mins|CD !|. !|. !|. LAX|NNP ,|, you|PRP are|VBP wonderful|JJ .|. So|RB glad|VBD to|TO be|VB back|RB in|IN you…|JJ 
+SENTENCESTARTSHERE|NNP It|NNP 's|POS really|RB sad|JJ to|TO see|VB how|WRB Elin|NNP Nordegren|NNP has|VBZ let|VBN herself|PRP go|VBP .|. (|: Via|NNP )|NNP 
+SENTENCESTARTSHERE|NNP Ah|NNP yes|VBZ ,|, those|DT notoriously|RB well|RB paying|VBG sweatshops|NNS that|WDT churn|NN out|RP goods|NNS for|IN pennies|NNS that|WDT you|PRP accept|VBP for|IN free|JJ ;|: htt…|JJ 
+SENTENCESTARTSHERE|NNP does|VBZ have|VB a|DT head|NN in|IN the|DT 
+SENTENCESTARTSHERE|NNP Nice|NNP to|TO see|VB we|PRP 've|VBP got|VBN a|DT fair|JJ ref|NN for|IN a|DT change|NN .|. .|. 
+SENTENCESTARTSHERE|NNP Why|NNP waste|NN energy|NN in|IN an|DT insult|NN when|WRB you|PRP can|MD say|VB something|NN nice|NN in|IN a|DT very|RB tone|NN .|. 
+SENTENCESTARTSHERE|NNP Good|NNP to|TO see|VB the|DT Twitter|NNP tag|NN has|VBZ continued|VBN to|TO elevate|VB the|DT debate|NN 
+SENTENCESTARTSHERE|NNP I|PRP am|VBP beside|JJ myself|NN I|PRP think|VBP you|PRP need|VBP to|TO seriously|RB use|VB the|DT 
+SENTENCESTARTSHERE|NNP Sense|NNP the|DT bitches|NNS 
+SENTENCESTARTSHERE|NNP Stop|NNP the|DT press|NN !|. Trump|NNP behaves|VBZ inappropriately|RB with|IN women|NNS ?|. !|. Since|NNP when|WRB ?|. The|DT New|NNP York|NNP Times|NNP 
+SENTENCESTARTSHERE|NNP These|NNP are|VBP the|DT best|JJS people|NNS 
+SENTENCESTARTSHERE|RB I|PRP think|VBP is|VBZ a|DT better|JJR liar|NN than|IN .|. ,|, is|VBZ n't|RB it|PRP ?|. 
+SENTENCESTARTSHERE|NNP Wow|NNP ,|, it|PRP 's|VBZ such|JJ surprise|NN that|WDT they|PRP GAVE|VBP the|DT win|NN to|TO Ukraine|NNP and|CC it|PRP 's|VBZ horror|NN sountrack|NN just|RB to|TO mock|VB Russia|NNP .|. 
+SENTENCESTARTSHERE|NNP Does|NNP this|DT mean|NN that|IN was|VBD afraid|JJ of|IN ?|. 
+SENTENCESTARTSHERE|NNP Eh|NNP .|. Arguing|NNP moot|NN parliamentary|NN is|VBZ more|RBR fun|JJ .|. 
+SENTENCESTARTSHERE|NNP Staying|NNP in|IN room|NN 237|CD ,|, but|CC there|EX 's|VBZ no|DT naked|JJ ghost|NN lady|NN in|IN the|DT bathroom|NN .|. :|: (|: 
+SENTENCESTARTSHERE|NNP Yay|NNP !|. We|PRP landed|VBD 45mins|CD early|JJ !|. !|. ……just|JJ to|TO sit|VB on|IN the|DT runway|NN for|IN 45mins|CD !|. !|. !|. LAX|NNP ,|, you|PRP are|VBP wonderful|JJ .|. So|RB glad|VBD to|TO be|VB back|RB in|IN you|PRP .|. 
+SENTENCESTARTSHERE|NNP If|NNP the|DT UK|NNP votes|VBZ than|IN leave|NN Europe|NNP then|RB emigration|NN becomes|VBZ a|DT massive|JJ option|NN 
+SENTENCESTARTSHERE|NNP Gob|NNP smacked|VBD that|IN United|NNP Kingdom|NNP did|VBD n't|RB win|VB the|DT !|. Adele|NNP could|MD be|VB belting|VBG one|CD out|RP for|IN us|PRP and|CC we|PRP still|RB wou…|-NONE- 
+SENTENCESTARTSHERE|NNP It|NNP 's|POS really|RB sad|JJ to|TO see|VB how|WRB Elin|NNP Nordegren|NNP has|VBZ let|VBN herself|PRP go|VBP .|. (|: Via|NNP )|NNP 
+SENTENCESTARTSHERE|NNP That|NNP thunderstorm|NN was|VBD crazy|JJ 
+SENTENCESTARTSHERE|NNP TV|NNP viewers|NNS are|VBP n't|RB their|PRP$ demographic|JJ .|. 
+SENTENCESTARTSHERE|NNP Hahaha|NNP ...|: .|. Barry|NNP and|CC Marr|NNP say|VBP that|IN Credlin|NNP ca|MD n't|RB be|VB a|DT commentator|NN ...|: 
+SENTENCESTARTSHERE|NNP When|NNP you|PRP see|VBP bae|JJ with|IN someone|NN ?|. ?|. ?|. ?|. ?|. ?|. ?|. ?|. ?|. ?|. 
